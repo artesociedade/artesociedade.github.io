@@ -1,8 +1,8 @@
 ---
-title: Daniela Felix Martins Kawabe
+title: Flávio Borges Faria
 description: |
-  description of Daniela Felix Martins Kawabe
-category: professor
+  description of Flávio Borges Faria
+category: aluno_doutorado
 about:
   template: trestles
   image-width: 10em

@@ -1,8 +1,8 @@
 ---
-title: Daniela Felix Martins Kawabe
+title: Aline Stéfany Mendes de Sousa Rezende
 description: |
-  description of Daniela Felix Martins Kawabe
-category: professor
+  description of Aline Stéfany Mendes de Sousa Rezende
+category: aluno_mestrado
 about:
   template: trestles
   image-width: 10em
