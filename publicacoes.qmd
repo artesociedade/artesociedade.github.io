@@ -2,7 +2,7 @@
 title: Publicações
 listing:
   contents: publicacoes/
-  type: table
+  type: grid
   sort: title
   categories: false
   filter-ui: false
