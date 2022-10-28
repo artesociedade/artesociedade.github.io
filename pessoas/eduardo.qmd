@@ -10,7 +10,7 @@ about:
   image-shape: rounded
   links:
     - text: "{{< ai lattes >}} Lattes"
-      url: https://
+      url: https://www.uol.com.br
     - text: "{{< ai orcid >}} OrcID"
       url: https://
     - text: "{{< ai google-scholar >}} Google Scholar"
