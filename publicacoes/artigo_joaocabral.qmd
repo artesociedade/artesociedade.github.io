@@ -1,19 +1,14 @@
 ---
 title: |
-<<<<<<< HEAD
  A pitu do pintor Monteiro: \ 
 Cachaça e afetividade em João Cabral de Melo Neto
-=======
-  A pitu do pintor Monteiro: \
-  Cachaça e afetividade em João Cabral de Melo Neto
->>>>>>> e29603b92e3ca4030376f0c3e69b45ffd8df4666
 author: Dimitrov, Eduardo
 autor: Ayer, Maurício
 image: /images/vicente.jpg
-description: |
+description: 
   Por meio da recosntituição de trajetórias, o livro explora o modernismo pernambucano da primeira metade do século XX.
 category: artigo
-about:
+about: A cachaça está presente ao longo de toda a obra poética de João Cabral de Melo Neto, desde O engenheiro até Sevilha andando. 
   template: trestles
   image-width: 10em
   image-shape: rounded
