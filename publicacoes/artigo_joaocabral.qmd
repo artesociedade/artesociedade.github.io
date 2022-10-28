@@ -1,8 +1,6 @@
 ---
-title: |
- A pitu do pintor Monteiro: \ 
-Cachaça e afetividade em João Cabral de Melo Neto
-autor: Ayer, Maurício
+title: "A pitu do pintor Monteiro: Cachaça e afetividade em João Cabral de Melo Neto"
+autor: Eduardo Dimitrov e Maurício Ayer
 image: /images/vicente.jpg
 description: 
   Por meio da recosntituição de trajetórias, o livro explora o modernismo pernambucano da primeira metade do século XX.
