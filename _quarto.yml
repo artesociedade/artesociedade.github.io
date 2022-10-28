@@ -25,9 +25,10 @@ website:
         href: https://www.unb.br
       - text: PPGSOL
         href: https://www.ppgsol.unb.br
-      
-
   
+
+execute:
+  freeze: auto  
 format:
   html:
     theme: litera
