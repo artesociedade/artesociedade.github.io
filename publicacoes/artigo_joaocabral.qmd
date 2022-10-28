@@ -8,7 +8,7 @@ description: |
 category: livro
 about:
   template: trestles
-  image-width: 40em
+  image-width: 10em
   image-shape: rounded
 
 ---
