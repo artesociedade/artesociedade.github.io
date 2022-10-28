@@ -1,12 +1,5 @@
 [
   {
-    "listing": "/publicacoes.html",
-    "items": [
-      "/publicacoes/artigo_joaocabral.html",
-      "/publicacoes/livro_regional.html"
-    ]
-  },
-  {
     "listing": "/eventos.html",
     "items": [
       "/eventos/Disciplinas.html",
@@ -29,6 +22,13 @@
       "/pessoas/rodolfo_araujo.html",
       "/pessoas/rodolfo_godoi.html",
       "/pessoas/rodrigo.html"
+    ]
+  },
+  {
+    "listing": "/publicacoes.html",
+    "items": [
+      "/publicacoes/artigo_joaocabral.html",
+      "/publicacoes/livro_regional.html"
     ]
   }
 ]
