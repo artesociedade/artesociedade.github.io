@@ -3,8 +3,6 @@ title: Regional por opção, Regional como prisão
 author: Dimitrov, Eduardo
 subtitle: trajetórias artísticas no modernismo pernambucano
 image: /images/capa_livro_regional_opcao.jpg
-description: |
-  Por meio da recosntituição de trajetórias, o livro explora o modernismo pernambucano da primeira metade do século XX.
 category: livro
 about:
   template: trestles
@@ -13,12 +11,12 @@ about:
 
 ---
 
-Por *Lilia Katri Moritz Schwarcz* 
+*Por Lilia Katri Moritz Schwarcz* 
 
  Muitas vezes uma palavra serve apenas como “rótulo” e assim impede que se compreendam fenômenos culturais mais complexos. Pois foi sob o rótulo de “regionalistas” que uma série de artistas pernambucanos foram definidos e dessa forma caricaturados. A designação facultou identificá-los como folclóricos, primitivistas, naïfs e entendê-los como “menos”; nunca “mais”. Eduardo Dimitrov apresenta, na contracorrente, uma excelente e esclarecedora pesquisa sobre a trajetória de artistas que, em sua grande maioria, resolveram fazer carreira no Recife, como Murillo La Greca, Lula Cardoso Ayres, Francisco Brennand, entre outros. Analisou também aqueles que ganharam sucesso nacionalmente, como Cícero Dias e Vicente do Rego Monteiro, bem como apontou discriminações de gênero sofridas por Ladjane Bandeira; a única mulher do grupo.  O resultado é um panorama consistente sobre esses artistas e acerca da especificidade da cena cultural de Recife, que continua a nos surpreender. 
 
 
- Por *Sérgio Miceli*
+ *Por Sérgio Miceli*
 
  O livro de Eduardo Dimitrov trata da questão espinhosa das relações tripartites entre metrópoles estrangeiras, centros nacionais e províncias, por meio da análise de gerações de artistas plásticos pernambucanos entre 1930 e 1960. Esmiúça os meandros da dialética entre a hegemonia exercida pelo eixo Rio-São Paulo e as estratégias de legitimação acionadas na periferia, instada a reafirmar a primazia do universo regionalista de experiências sociais, de cultural material, de uma comunidade imaginada à revelia do cosmopolitismo em voga.
 
