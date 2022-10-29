@@ -1,1 +1,1 @@
-Sitemap: https://github.com/artesociedade/temp/sitemap.xml
+Sitemap: https://github.com/artesociedade/artesociedade.github.io/sitemap.xml
