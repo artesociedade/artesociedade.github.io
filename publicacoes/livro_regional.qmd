@@ -2,9 +2,10 @@
 title: Regional por opção, Regional como prisão
 author: Dimitrov, Eduardo
 subtitle: trajetórias artísticas no modernismo pernambucano
-description: Livro de Eduardo Dimitrov
+description: Livro
 image: /images/capa_livro_regional_opcao.jpg
 category: livro
+year: 2022/
 about:
   template: trestles
   image-width: 10em

@@ -1,8 +1,8 @@
 ---
 title: "A Pitu do Pintor Monteiro: cachaça e afetividade em João Cabral de Melo Neto"
-description: Artigo de Maurício Ayer e Eduardo Dimitrov
+description: Artigo
 author:  Ayer, Mauricio; Dimitrov, Eduardo
-date: 01/012020
+year: 2020/
 doi: 10.17851/2358-9787.29.2.94-115
 image: /images/vicente.jpg
 category: artigo

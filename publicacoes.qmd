@@ -3,7 +3,7 @@ title: Publicações
 listing:
   contents: publicacoes/
   type: grid
-  sort: title
+  sort: year desc
   categories: false
   filter-ui: false
   image-placeholder: /images/samico.png
