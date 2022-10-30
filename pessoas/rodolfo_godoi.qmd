@@ -1,7 +1,8 @@
 ---
 title: Rodolfo Luiz Costa de Godoi
+image: /images/pessoas_rodolfo.jpeg
 description: |
-  description of Rodolfo Luiz Costa de Godoi
+  Pesquisador/Doutorando
 category: aluno_doutorado
 about:
   template: trestles
@@ -10,38 +11,18 @@ about:
   links:
     - text: Lattes
       icon: lattes
-      url: https://
+      url:  http://lattes.cnpq.br/2998890723751132
     - text: Orcid
       icon: orcid
-      url: https://
-    - text: Google Scholar
-      icon: google-scholar
-      url: https://
+      url:  https://orcid.org/0000-0003-0108-9716
+    - text: instagram
+      icon: instagram
+      url: https://www.instagram.com/ubercapitalismo/
     - text: Email
       icon: email
-      url: "mailto:"
+      url: "mailto: rodolfocgodoi@gmail.com"
 ---
 
-### This content appears above the formatted about page content.
+Doutorando em Sociologia pela UnB. Mestre (2018), Bacharel (2013) e Licenciado (2013) em Sociologia pela mesma universidade. Professor da Secretaria de Educação do DF. Fundador e pesquisador do Instituto Cultura Arte e Memória LGBT+. Integra o Grupo de Pesquisa Arte, Sociedade e Interpretações do Brasil (SOL-UnB). Atuou no Núcleo de Estudos da Diversidade Sexual e de Gênero (UnB), Núcleo de Estudos e Pesquisas da Mulher (UnB) e no Núcleo de Estudos da Violência (UnB). Integrou o PET Sol UnB, foi vice-presidente da Socius, e voluntário no PIBIC. Trabalhou na Cena Promoções Culturais entre outros. Tem experiência na área de Sociologia, atuando principalmente nos seguintes temas: Ensino de Sociologia; Sociologia das Relações de Gênero; Sexualidades; Violência; Estudos da Performance. É autor e diretor do espetáculo teatral Übercapitalismo.
 
-:::{#hero-heading}
 
-Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending  time unicycling and playing with her pet iguana.
-
-## Education
-
-University of California, San Diego | San Diego, CA
-PhD in Mathematics | Sept 2011 - June 2015
-
-Macalester College | St. Paul MA
-B.A in Economics | Sept 2007 - June 2011
-
-## Experience
-
-Wengo Analytics | Head Data Scientist | April 2018 - present
-
-GeoScynce | Chief Analyst | Sept 2012 - April 2018
-
-:::
-
-### This content appears below the formatted about page content.
