@@ -2,12 +2,9 @@
 title: Contato
 
 ---
-
-# Contato
-
 **Arte, Sociedade e interpretações do Brasil**
 
-**CNPq** - <dgp.cnpq.br/dgp/espelhogrupo/2275915884658604>
+**CNPq** - <http://www.dgp.cnpq.br/dgp/espelhogrupo/2275915884658604>
 
 **Edereço** 
 Programa de Pós-Graduação em Sociologia
@@ -18,4 +15,5 @@ Campus Universitário Darcy Ribeiro
 CEP: 70910-900 - Asa Norte, Brasília (DF)
 
 **Telefone**: (61) 3107-1504
+
 **E-mail**: pgsol@unb.br
