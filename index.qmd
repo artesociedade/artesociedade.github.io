@@ -5,7 +5,9 @@ toc: false
 editor: source
 image: /images/hero_right.png
 
+---
 ![*Francisco Brennand. Detalhe do painel Batalha dos Guararapes, 1961-1962*. Foto Laércio Dias.](/images/brennand_batalha.jpg){fig-align="right"}
+---
 
 # Arte, sociedade e Interpretações do Brasil
 
@@ -13,14 +15,9 @@ image: /images/hero_right.png
 
 
 
-listing: 
-  contents:
-  contents: publicacoes/
-  type: grid
-  sort: title
-  categories: false
-  filter-ui: false
-  image-placeholder: /images/samico.png
-  ---
+
+
+
+  
 
 
