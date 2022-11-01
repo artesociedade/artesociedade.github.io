@@ -7,6 +7,13 @@
     ]
   },
   {
+    "listing": "/index.html",
+    "items": [
+      "/eventos/Disciplinas.html",
+      "/eventos/seminarios_2022_2023.html"
+    ]
+  },
+  {
     "listing": "/pessoas.html",
     "items": [
       "/pessoas/Aline.html",
@@ -30,14 +37,6 @@
       "/publicacoes/livro_regional.html",
       "/publicacoes/artigo_joaocabral.html",
       "/publicacoes/dissertacao_ney.html"
-    ]
-  },
-  {
-    "listing": "/index.html",
-    "items": [
-      "/publicacoes/artigo_joaocabral.html",
-      "/publicacoes/dissertacao_ney.html",
-      "/publicacoes/livro_regional.html"
     ]
   }
 ]
