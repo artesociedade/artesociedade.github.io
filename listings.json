@@ -18,6 +18,14 @@
     ]
   },
   {
+    "listing": "/index.html",
+    "items": [
+      "/publicacoes/artigo_joaocabral.html",
+      "/publicacoes/dissertacao_ney.html",
+      "/publicacoes/livro_regional.html"
+    ]
+  },
+  {
     "listing": "/eventos.html",
     "items": [
       "/eventos/Disciplinas.html",
