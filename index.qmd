@@ -7,7 +7,7 @@ image: /images/hero_right.png
 listing:
   - id: home
     contents: publicacoes/
-    sort: year 
+    sort: year desc
 ---
 ![*Francisco Brennand. Detalhe do painel Batalha dos Guararapes, 1961-1962*. Foto Laércio Dias.](/images/brennand_batalha.jpg){fig-align="right"}
 ---
