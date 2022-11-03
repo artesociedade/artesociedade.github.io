@@ -1,7 +1,8 @@
 ---
 title: Aline Stéfany Mendes de Sousa Rezende
+image: /images/pessoas_aline.gif
 description: |
-  description of Aline Stéfany Mendes de Sousa Rezende
+  Pesquisadora/Mestranda
 category: aluno_mestrado
 about:
   template: trestles
@@ -10,38 +11,8 @@ about:
   links:
     - text: Lattes
       icon: lattes
-      url: https://
-    - text: Orcid
-      icon: orcid
-      url: https://
-    - text: Google Scholar
-      icon: google-scholar
-      url: https://
-    - text: Email
-      icon: email
-      url: "mailto:"
+      url:  http://lattes.cnpq.br/0403088804541281
+    
 ---
 
-### This content appears above the formatted about page content.
-
-:::{#hero-heading}
-
-Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending  time unicycling and playing with her pet iguana.
-
-## Education
-
-University of California, San Diego | San Diego, CA
-PhD in Mathematics | Sept 2011 - June 2015
-
-Macalester College | St. Paul MA
-B.A in Economics | Sept 2007 - June 2011
-
-## Experience
-
-Wengo Analytics | Head Data Scientist | April 2018 - present
-
-GeoScynce | Chief Analyst | Sept 2012 - April 2018
-
-:::
-
-### This content appears below the formatted about page content.
+Mestranda pelo Programa de Pós Graduação em Sociologia da Universidade de Brasília na linha de pesquisa Cidade, Cultura e Sociedade, pesquisando sobre a atuação das mulheres na arte urbana no Distrito Federal e Entorno. Licenciada em Ciências Sociais pelo Instituto de Ciências Sociais da Universidade de Brasília. Bacharela em Sociologia pelo Departamento de Sociologia da Universidade de Brasília. Atualmente integra o Grupo de pesquisa Arte, Sociedade e Interpretações do Brasil (SOL-UnB).

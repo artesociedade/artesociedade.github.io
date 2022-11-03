@@ -1,7 +1,8 @@
 ---
 title: Flávio Borges Faria
+image: /images/pessoas_flavio.gif
 description: |
-  description of Flávio Borges Faria
+  Pesquisador/Doutorando
 category: aluno_doutorado
 about:
   template: trestles
@@ -10,38 +11,8 @@ about:
   links:
     - text: Lattes
       icon: lattes
-      url: https://
-    - text: Orcid
-      icon: orcid
-      url: https://
-    - text: Google Scholar
-      icon: google-scholar
-      url: https://
-    - text: Email
-      icon: email
-      url: "mailto:"
+      url: https://lattes.cnpq.br/8846800853621694
+
 ---
 
-### This content appears above the formatted about page content.
-
-:::{#hero-heading}
-
-Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending  time unicycling and playing with her pet iguana.
-
-## Education
-
-University of California, San Diego | San Diego, CA
-PhD in Mathematics | Sept 2011 - June 2015
-
-Macalester College | St. Paul MA
-B.A in Economics | Sept 2007 - June 2011
-
-## Experience
-
-Wengo Analytics | Head Data Scientist | April 2018 - present
-
-GeoScynce | Chief Analyst | Sept 2012 - April 2018
-
-:::
-
-### This content appears below the formatted about page content.
+Tenho experiência na área de Sociologia, com ênfase em teoria sociológica, metodologias científicas, escrita acadêmica e sociologia da literatura, atuando principalmente no seguinte tema: literatura em língua alemão, interpretações do Brasil, teoria, modernidade, Walter Benjamin e Franz Kafka. Possuo também experiência de editoração em periódicos acadêmicos, participei de duas revista discentes do Departamento de Sociologia (SOL-UnB) como membro do corpo editorial, revisor e diagramador.

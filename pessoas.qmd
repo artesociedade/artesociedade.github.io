@@ -7,4 +7,5 @@ listing:
   categories: false
   filter-ui: false
   image-placeholder: /images/samico.png
+  
 ---

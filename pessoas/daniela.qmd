@@ -1,7 +1,8 @@
 ---
 title: Daniela Felix Martins Kawabe
+image: /images/pessoas_daniela.gif
 description: |
-  description of Daniela Felix Martins Kawabe
+  Pesquisadora/Coord.
 category: professor
 about:
   template: trestles
@@ -10,38 +11,8 @@ about:
   links:
     - text: Lattes
       icon: lattes
-      url: https://
-    - text: Orcid
-      icon: orcid
-      url: https://
-    - text: Google Scholar
-      icon: google-scholar
-      url: https://
-    - text: Email
-      icon: email
-      url: "mailto:"
+      url: https://lattes.cnpq.br/5588912862885467
+  
 ---
 
-### This content appears above the formatted about page content.
-
-:::{#hero-heading}
-
-Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending  time unicycling and playing with her pet iguana.
-
-## Education
-
-University of California, San Diego | San Diego, CA
-PhD in Mathematics | Sept 2011 - June 2015
-
-Macalester College | St. Paul MA
-B.A in Economics | Sept 2007 - June 2011
-
-## Experience
-
-Wengo Analytics | Head Data Scientist | April 2018 - present
-
-GeoScynce | Chief Analyst | Sept 2012 - April 2018
-
-:::
-
-### This content appears below the formatted about page content.
+Professora Adjunta do Departamento de Sociologia da Universidade de Brasília (SOL/UnB). Possui graduação em Ciências Sociais pela Universidade Federal da Bahia (2009), mestrado (2012) e doutorado (2017) em Ciências Sociais pela mesma Universidade. Realizou doutorado-sanduíche na University of Roehampton (2016) e pesquisa na Live Art Development Agency (2016), em Londres. Atualmente é pesquisadora do grupo ECSAS - Núcleo de Estudos sobre Corpos, Sensibilidades e Ambientes da Universidade Federal da Bahia, e do Grupo de Pesquisa Musealização da Arte da Universidade de Brasília. Realizou Estágio Pós-Doutoral (PNPD/CAPES) no Programa de Pós-Graduação em Estudos da Tradução da Universidade de Brasília (POSTRAD/UNB). Tem se dedicado ao estudo de questões relativas às artes, cultura e política, desenvolvendo pesquisas sobre as relações entre arte contemporânea, mercados culturais e Estado. Tem interesse especial no desenvolvimento de abordagens interacionistas no campo das ciências sociais, particularmente nas discussões contemporâneas sobre a teoria ator-rede e cosmopolítica. Além do campo acadêmico, tem realizado trabalhos de curadoria, produção cultural e consultoria; como integrante do Coletivo OSSO de Performance é coordenadora geral da MOLA (Mostra OSSO Latino-Americana de Performance).

@@ -1,7 +1,8 @@
 ---
 title: Ana Luiza Avellar Netto
+image: /images/pessoas_ana.gif
 description: |
-  description of Ana Luiza Avellar Netto
+  Pesquisadora
 category: pesquisador
 about:
   template: trestles
@@ -10,38 +11,7 @@ about:
   links:
     - text: Lattes
       icon: lattes
-      url: https://
-    - text: Orcid
-      icon: orcid
-      url: https://
-    - text: Google Scholar
-      icon: google-scholar
-      url: https://
-    - text: Email
-      icon: email
-      url: "mailto:"
+      url: https://lattes.cnpq.br/1318456067284021
+    
 ---
-
-### This content appears above the formatted about page content.
-
-:::{#hero-heading}
-
-Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending  time unicycling and playing with her pet iguana.
-
-## Education
-
-University of California, San Diego | San Diego, CA
-PhD in Mathematics | Sept 2011 - June 2015
-
-Macalester College | St. Paul MA
-B.A in Economics | Sept 2007 - June 2011
-
-## Experience
-
-Wengo Analytics | Head Data Scientist | April 2018 - present
-
-GeoScynce | Chief Analyst | Sept 2012 - April 2018
-
-:::
-
-### This content appears below the formatted about page content.
+Possui graduação em Direito pela Universidade de Brasília (1993). Graduada em Ciências Sociais (Sociologia) pela Universidade de Brasília. 
