@@ -10,7 +10,7 @@ listing:
     contents: destaques/
     sort: year asc
 ---
-![*Francisco Brennand. Detalhe do painel Batalha dos Guararapes, 1961-1962*. Foto Laércio Dias.](/images/brennand_batalha.jpg){fig-align="right"}
+![*foto - Alexandre Dimitrov.](/images/chapeus.jpg){fig-align="right"}
 ---
 
 # Arte, sociedade e Interpretações do Brasil
