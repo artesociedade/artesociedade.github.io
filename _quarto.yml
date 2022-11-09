@@ -18,9 +18,10 @@ website:
         text: Contato
     
      
-  page-footer: 
+  page-footer:
+(/images/SOL.png)
     left: "Copyright 2022" 
-    right: 
+    right:  
       - text: UnB
         href: https://www.unb.br
       - text: PPGSOL
