@@ -19,7 +19,6 @@ website:
     
      
   page-footer:
-(/images/SOL.png)
     left: "Copyright 2022" 
     right:  
       - text: UnB
