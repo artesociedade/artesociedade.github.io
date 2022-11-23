@@ -1,0 +1,32 @@
+---
+title: "Traduire le Candomblé: une analyse de l’écriture lexicographique dans la traduction de Taste of Blood: spirit possession in brazilian candomblé"
+description: Artigo
+author:  Félix Martins, Daniela; ARAUJO FERREIRA, Alice Maria de 
+year: 2018/
+doi: 10.17851/2358-9787.29.2.94-115
+image: /images/samico.png
+category: artigo
+about:
+  template: trestles
+  image-width: 15em
+  image-shape: rounded
+
+---
+
+L’article vise à décrire et analyser les stratégies de traduction de
+l’anthropologue australien, Jim Wafer, dans son ethnographie : The Taste of blood : Spirit
+possession in Brazilian Candomblé (1991) ; et de là présenter les premiers développements
+d’un projet de traduction de l’œuvre en portugais. En d’autres termes, nous
+prétendons présenter ces développements en mettant l’accent sur l’objectif de
+poursuivre les stratégies de traduction de l’anthropologue dans son écriture
+ethnographique. Il est entendu que de telles stratégies, regroupées sous le terme «
+écriture lexicographique » forment la poétique du texte (Meschonnic, 1999) de Wafer ;
+et qui exigent par conséquent une réflexion sur elles, pour éclairer les décisions de
+traduction en portugais. Ainsi, nous commencerons par une brève exploration des
+possibles dialogues entre les Études de la Traduction et la Théorie Ethnographique, en
+particulier ceux qui touchent aux aspects suivants : la relation ; la poétique et la
+créativité. Nous examinerons, ensuite, la singularité de l’écriture de Wafer, pour tenter
+de montrer son « écriture lexicographique », et enfin nous présenterons des décisions
+au sujet de notre traduction.   
+
+[Baixe o artigo completo](https://atelierdetraduction.usv.ro/numero-30/)

@@ -11,8 +11,8 @@ listing:
     sort: year desc
 
 ---
-![](/images/chapeus.jpg)
-<p align="right" style="font-size: 12px"> foto - Alexandre Dimitrov</p> 
+![](/images/chapeus_01.jpg)
+<p align="right" style="font-size: 10px"> foto - Alexandre Dimitrov</p> 
 ---
 
 # Arte, sociedade e Interpretações do Brasil

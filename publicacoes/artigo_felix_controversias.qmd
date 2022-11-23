@@ -1,0 +1,18 @@
+---
+title: "Controvérsias no mundo da performance art: um relato de pesquisa"
+description: Artigo
+author:  Félix Martins, Daniela 
+year: 2017/
+doi: 10.26512/cmd.v5i1.8969
+image: /images/cover_issue_688_pt_BR.jpg
+category: artigo
+about:
+  template: trestles
+  image-width: 15em
+  image-shape: rounded
+
+---
+
+Fundamentado em pesquisa desenvolvida no doutorado, o texto tem por objetivo apresentar a arte da performance realizando-se e permanecendo no mundo através de um fluxo de interações entre artistas, públicos, produtores, políticas públicas, espaços tradicionais (galerias e museus) e não tradicionais de arte (ruas, espaços públicos em geral). Realização e permanência referindo-se à sustentação da performance numa duração como evento ao vivo e também aos modos em que ela continua operando, mediante seus registros em fotos, vídeo, instruções escritas, vestígios materiais etc. Esses elementos foram reunidos em trabalho de pesquisa empírica, principalmente no Brasil, mas em breves períodos no Chile e Peru, e posteriormente, em Londres, onde foi mais extenso o tempo dedicado ao trabalho de pesquisa, que em sua maior parte consistiu em pesquisa documental, na LADA - Live Art Development Agency.  
+
+[Baixe o artigo completo](https://periodicos.unb.br/index.php/CMD/article/view/8969)

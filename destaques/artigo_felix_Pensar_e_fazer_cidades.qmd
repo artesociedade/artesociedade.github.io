@@ -1,0 +1,18 @@
+---
+title: "Pensar e fazer cidades: composições performáticas e a emergência do espaço público"
+description: Artigo
+author:  Félix Martins, Daniela 
+year: 2020/
+doi: 10.17851/2358-9787.29.2.94-115
+image: /images/cover_issue_250_pt_BR.jpg
+category: artigo
+about:
+  template: trestles
+  image-width: 15em
+  image-shape: rounded
+
+---
+
+O artigo tem por objetivo apresentar a arte da performance como um agenciamento/assemblage que, ao recuperar a condição de multiplicidade e de inter-relações nas cidades, participa da emergência de um espaço público possível. Isto é, enquanto uma prática minoritária, a arte da performance re-articula os sentidos hegemônicos instituídos nos espaços, por meio da instauração de situações artísticas, que exploram a cidade como a esfera na qual distintas trajetórias coexistem. Assim, a arte da performance pode ser compreendida como contestação e possibilidade de instauração de comunidades políticas. E consequentemente, “experimentar a cidade” se transforma em um processo de “fabricação da cidade”, que por sua vez, pode ser encarada não como um dado, mas como uma composição, algo por fazer, na qual sentidos em latência são atualizados no evento performático. Esses elementos foram reunidos a partir da realização de pesquisa empírica junto ao grupo Corpos Informáticos e suas ações na cidade de Brasília.  
+
+[Baixe o artigo completo](https://www.periodicos.unimontes.br/index.php/rds/article/view/3262)

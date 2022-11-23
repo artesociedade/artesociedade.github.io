@@ -12,7 +12,8 @@
       "/destaques/seminarios_2022_2023.html",
       "/destaques/entrevista_dimitrov.html",
       "/destaques/livro_regional.html",
-      "/destaques/artigo_joaocabral.html"
+      "/destaques/artigo_felix_Pensar_e_fazer_cidades.html",
+      "/destaques/dissertacao_ney.html"
     ]
   },
   {
@@ -36,9 +37,11 @@
   {
     "listing": "/publicacoes.html",
     "items": [
-      "/publicacoes/livro_regional.html",
+      "/publicacoes/artigo_felix_musealizacao.html",
       "/publicacoes/artigo_joaocabral.html",
-      "/publicacoes/dissertacao_ney.html"
+      "/publicacoes/artigo_felix_traduire.html",
+      "/publicacoes/artigo_felix_controversias.html",
+      "/publicacoes/artigo_felix_musealizacao copy 2.html"
     ]
   }
 ]

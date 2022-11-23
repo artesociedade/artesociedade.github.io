@@ -1,0 +1,17 @@
+---
+title: "A novidade da arte da performance: exploração em arte contemporânea à luz das ciências sociais"
+description: Artigo
+author:  Félix Martins, Daniela; Alves, Meigle Rafael 
+year: 2017/
+image: /images/cover_issue_192_pt_BR.jpg
+category: artigo
+about:
+  template: trestles
+  image-width: 15em
+  image-shape: rounded
+
+---
+
+Este artigo apresenta a performance art como um fazer artístico cuja novidade reside no modo específico pelo qual ela se realiza: através de um fluxo de interações entre artistas, públicos, produtores, políticas públicas e, especialmente, em espaços não-tradicionais de arte (ruas, espaços públicos em geral). A realização da performance corresponde, no artigo, a sua sustentação numa duração como evento ao vivo. Registros fotográficos desse processo integram o texto. As informações de base empírica foram reunidas em trabalho de campo na Bahia (Salvador, Lençóis e Porto Seguro) e em Brasília. Do ponto de vista teórico, a argumentação alinha-se com os novos desdobramentos da sociologia da arte, a qual mostra insuficiências em relação ao objeto tratado, o que levou a pesquisa a pensamentos oriundos de fora da área, na própria sociologia, na antropologia e na filosofia, no que esta tem recentemente oferecido como recursos às ciências sociais.  
+
+[Baixe o artigo completo](https://ojs.ifch.unicamp.br/index.php/proa/article/view/2867)
