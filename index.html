@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="pt-BR" xml:lang="pt-BR"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.1.251">
+<meta name="generator" content="quarto-1.2.269">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -113,16 +113,20 @@ Interpretações do Brasil</span>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./pessoas.html">Pessoas</a>
+    <a class="nav-link" href="./pessoas.html">
+ <span class="menu-text">Pessoas</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./publicacoes.html">Publicações</a>
+    <a class="nav-link" href="./publicacoes.html">
+ <span class="menu-text">Publicações</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./eventos.html">Eventos</a>
+    <a class="nav-link" href="./eventos.html">
+ <span class="menu-text">Eventos</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./contato.html">Contato</a>
+    <a class="nav-link" href="./contato.html">
+ <span class="menu-text">Contato</span></a>
   </li>  
 </ul>
               <div id="quarto-search" class="" title="Search"></div>
@@ -152,7 +156,7 @@ Sediado no <a href="https://www.ppgsol.unb.br">Departamento de Sociologia</a> da
 <h1 id="destaques">Destaques</h1>
 <div id="listing-destaques" class="line-page quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1667988688428" data-listing-reading-time-sort="1.015">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1669210832101" data-listing-reading-time-sort="1.015">
 <a href="./destaques/seminarios_2022_2023.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -174,7 +178,29 @@ Os encontros acontecem quinzenalmente às <strong>terças-feiras às 14hs na Sal
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1667988688428" data-listing-reading-time-sort="2.925">
+<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1669210832101" data-listing-reading-time-sort="0.075">
+<a href="./destaques/entrevista_dimitrov.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./images/outraspalavras.jpeg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Entrevista de Eduardo Dimitrov com Maurício Ayer para o Outras Palavras
+</h5>
+<div class="card-text listing-description">
+Entrevista
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+Ayer, Mauricio; Dimitrov, Eduardo
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1669210832101" data-listing-reading-time-sort="2.925">
 <a href="./destaques/livro_regional.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -196,7 +222,7 @@ Dimitrov, Eduardo
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1667988688428" data-listing-reading-time-sort="0.855">
+<div class="g-col-1" data-index="3" data-listing-file-modified-sort="1669210832101" data-listing-reading-time-sort="0.855">
 <a href="./destaques/artigo_joaocabral.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -269,7 +295,24 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     button.classList.add('code-copy-button-checked');
     var currentTitle = button.getAttribute("title");
     button.setAttribute("title", "Copiada");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copiada");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
     setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
       button.setAttribute("title", currentTitle);
       button.classList.remove('code-copy-button-checked');
     }, 1000);
@@ -305,24 +348,42 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return note.innerHTML;
     });
   }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
   var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
   for (var i=0; i<bibliorefs.length; i++) {
     const ref = bibliorefs[i];
-    const cites = ref.parentNode.getAttribute('data-cites').split(' ');
-    tippyHover(ref, function() {
-      var popup = window.document.createElement('div');
-      cites.forEach(function(cite) {
-        var citeDiv = window.document.createElement('div');
-        citeDiv.classList.add('hanging-indent');
-        citeDiv.classList.add('csl-entry');
-        var biblioDiv = window.document.getElementById('ref-' + cite);
-        if (biblioDiv) {
-          citeDiv.innerHTML = biblioDiv.innerHTML;
-        }
-        popup.appendChild(citeDiv);
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
       });
-      return popup.innerHTML;
-    });
+    }
   }
 });
 </script>
