@@ -1,0 +1,10 @@
+---
+title: Produções
+listing:
+  contents: publicacoes
+  type: grid
+  sort: year desc
+  categories: false
+  filter-ui: false
+  image-placeholder: /images/samico.png
+---
