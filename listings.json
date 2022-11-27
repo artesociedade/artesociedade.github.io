@@ -1,17 +1,25 @@
 [
   {
-    "listing": "/eventos.html",
+    "listing": "/publicacoes.html",
     "items": [
-      "/eventos/Disciplinas.html",
-      "/eventos/seminarios_2022_2023.html"
+      "/publicacoes/artigo_felix_musealizacao.html",
+      "/publicacoes/artigo_joaocabral.html",
+      "/publicacoes/artigo_godoi_ney.html",
+      "/publicacoes/artigo_dimitrov_samico.html",
+      "/publicacoes/artigo_dimitrov_cicero.html",
+      "/publicacoes/artigo_felix_traduire.html",
+      "/publicacoes/artigo_felix_controversias.html",
+      "/publicacoes/artigo_felix_novidade.html",
+      "/publicacoes/artigo_dimitrov_vicente.html",
+      "/publicacoes/monografia_godoi.html"
     ]
   },
   {
     "listing": "/index.html",
     "items": [
       "/destaques/seminarios_2022_2023.html",
-      "/destaques/entrevista_dimitrov.html",
       "/destaques/livro_regional.html",
+      "/destaques/entrevista_dimitrov.html",
       "/destaques/artigo_felix_Pensar_e_fazer_cidades.html",
       "/destaques/dissertacao_ney.html"
     ]
@@ -35,13 +43,25 @@
     ]
   },
   {
-    "listing": "/publicacoes.html",
+    "listing": "/Producoes.html",
     "items": [
       "/publicacoes/artigo_felix_musealizacao.html",
       "/publicacoes/artigo_joaocabral.html",
+      "/publicacoes/artigo_godoi_ney.html",
+      "/publicacoes/artigo_dimitrov_samico.html",
+      "/publicacoes/artigo_dimitrov_cicero.html",
       "/publicacoes/artigo_felix_traduire.html",
       "/publicacoes/artigo_felix_controversias.html",
-      "/publicacoes/artigo_felix_novidade.html"
+      "/publicacoes/artigo_felix_novidade.html",
+      "/publicacoes/artigo_dimitrov_vicente.html",
+      "/publicacoes/monografia_godoi.html"
+    ]
+  },
+  {
+    "listing": "/eventos.html",
+    "items": [
+      "/eventos/Disciplinas.html",
+      "/eventos/seminarios_2022_2023.html"
     ]
   }
 ]

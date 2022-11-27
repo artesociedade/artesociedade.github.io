@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="pt-BR" xml:lang="pt-BR"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.1.251">
+<meta name="generator" content="quarto-1.2.269">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -83,16 +83,20 @@ Interpretações do Brasil</span>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../pessoas.html">Pessoas</a>
+    <a class="nav-link" href="../pessoas.html">
+ <span class="menu-text">Pessoas</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../publicacoes.html">Publicações</a>
+    <a class="nav-link" href="../publicacoes.html">
+ <span class="menu-text">Publicações</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../eventos.html">Eventos</a>
+    <a class="nav-link" href="../eventos.html">
+ <span class="menu-text">Eventos</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../contato.html">Contato</a>
+    <a class="nav-link" href="../contato.html">
+ <span class="menu-text">Contato</span></a>
   </li>  
 </ul>
               <div id="quarto-search" class="" title="Search"></div>
@@ -138,7 +142,9 @@ Interpretações do Brasil</span>
 </header>
   </div>
   <div class="about-contents"><main class="content" id="quarto-document-content">
-<p>L’article vise à décrire et analyser les stratégies de traduction de l’anthropologue australien, Jim Wafer, dans son ethnographie : The Taste of blood : Spirit possession in Brazilian Candomblé (1991) ; et de là présenter les premiers développements d’un projet de traduction de l’œuvre en portugais. En d’autres termes, nous prétendons présenter ces développements en mettant l’accent sur l’objectif de poursuivre les stratégies de traduction de l’anthropologue dans son écriture ethnographique. Il est entendu que de telles stratégies, regroupées sous le terme « écriture lexicographique » forment la poétique du texte (Meschonnic, 1999) de Wafer ; et qui exigent par conséquent une réflexion sur elles, pour éclairer les décisions de traduction en portugais. Ainsi, nous commencerons par une brève exploration des possibles dialogues entre les Études de la Traduction et la Théorie Ethnographique, en particulier ceux qui touchent aux aspects suivants : la relation ; la poétique et la créativité. Nous examinerons, ensuite, la singularité de l’écriture de Wafer, pour tenter de montrer son « écriture lexicographique », et enfin nous présenterons des décisions au sujet de notre traduction.</p>
+<p align="justify">
+L’article vise à décrire et analyser les stratégies de traduction de l’anthropologue australien, Jim Wafer, dans son ethnographie : The Taste of blood : Spirit possession in Brazilian Candomblé (1991) ; et de là présenter les premiers développements d’un projet de traduction de l’œuvre en portugais. En d’autres termes, nous prétendons présenter ces développements en mettant l’accent sur l’objectif de poursuivre les stratégies de traduction de l’anthropologue dans son écriture ethnographique. Il est entendu que de telles stratégies, regroupées sous le terme « écriture lexicographique » forment la poétique du texte (Meschonnic, 1999) de Wafer ; et qui exigent par conséquent une réflexion sur elles, pour éclairer les décisions de traduction en portugais. Ainsi, nous commencerons par une brève exploration des possibles dialogues entre les Études de la Traduction et la Théorie Ethnographique, en particulier ceux qui touchent aux aspects suivants : la relation ; la poétique et la créativité. Nous examinerons, ensuite, la singularité de l’écriture de Wafer, pour tenter de montrer son « écriture lexicographique », et enfin nous présenterons des décisions au sujet de notre traduction.
+</p>
 <p><a href="https://atelierdetraduction.usv.ro/numero-30/">Baixe o artigo completo</a></p>
 
 
@@ -179,7 +185,24 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     button.classList.add('code-copy-button-checked');
     var currentTitle = button.getAttribute("title");
     button.setAttribute("title", "Copiada");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copiada");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
     setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
       button.setAttribute("title", currentTitle);
       button.classList.remove('code-copy-button-checked');
     }, 1000);
@@ -215,24 +238,42 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return note.innerHTML;
     });
   }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
   var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
   for (var i=0; i<bibliorefs.length; i++) {
     const ref = bibliorefs[i];
-    const cites = ref.parentNode.getAttribute('data-cites').split(' ');
-    tippyHover(ref, function() {
-      var popup = window.document.createElement('div');
-      cites.forEach(function(cite) {
-        var citeDiv = window.document.createElement('div');
-        citeDiv.classList.add('hanging-indent');
-        citeDiv.classList.add('csl-entry');
-        var biblioDiv = window.document.getElementById('ref-' + cite);
-        if (biblioDiv) {
-          citeDiv.innerHTML = biblioDiv.innerHTML;
-        }
-        popup.appendChild(citeDiv);
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
       });
-      return popup.innerHTML;
-    });
+    }
   }
 });
 </script>
