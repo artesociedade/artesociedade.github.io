@@ -13,7 +13,7 @@ about:
 
 ---
 
-L’article vise à décrire et analyser les stratégies de traduction de
+<P align="justify">L’article vise à décrire et analyser les stratégies de traduction de
 l’anthropologue australien, Jim Wafer, dans son ethnographie : The Taste of blood : Spirit
 possession in Brazilian Candomblé (1991) ; et de là présenter les premiers développements
 d’un projet de traduction de l’œuvre en portugais. En d’autres termes, nous
@@ -27,6 +27,6 @@ possibles dialogues entre les Études de la Traduction et la Théorie Ethnograph
 particulier ceux qui touchent aux aspects suivants : la relation ; la poétique et la
 créativité. Nous examinerons, ensuite, la singularité de l’écriture de Wafer, pour tenter
 de montrer son « écriture lexicographique », et enfin nous présenterons des décisions
-au sujet de notre traduction.   
+au sujet de notre traduction.  </p> 
 
 [Baixe o artigo completo](https://atelierdetraduction.usv.ro/numero-30/)

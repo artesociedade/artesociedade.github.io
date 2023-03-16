@@ -1,0 +1,21 @@
+---
+title: "O cômico na performance artística de Ney Matogrosso"
+description: Livro
+author:  Godoi, Rodolfo Luiz Costa de
+year: 2020/
+doi: 10.26512/cmd.v8i2.31149
+image: /images/drag.jpg
+category: livro
+about:
+  template: trestles
+  image-width: 15em
+  image-shape: rounded
+
+---
+<P align="justify"> A pesquisa subsidia a compreensão da arte transformista no Distrito Federal e Entorno, produz indicadores sociais, econômicos e culturais por meio do mapeamento das (e dos) artistas deste segmento. Além disso, busca evidenciar sua complexa cadeia produtiva, e o espectro de linguagens e identificações estéticas, éticas e políticas dos agentes. Utilizamos a entrevista semi-estruturada, partindo das classificações propostas por Colognese e Melo (1998) — que entendem a técnica de entrevista na pesquisa social como uma espécie de conversa interessada para apreensão dos comportamentos, práticas e compreensões das pessoas entrevistadas.
+
+Apresentarmos roteiro relativamente determinado, mas aberto a novas questões elucidativas; de natureza oral para produções de dados simultaneamente amplos e detalhados, reconhecendo a importância das estratégias de condução de entrevistas; a partir de informantes individuais, por nível de controle formal, prevendo construção de roteiro e pré-testes. Roteiro feito por tópicos considerados aprioristicamente relevantes, com tópicos orientadores de perguntas.
+
+As artistas entrevistadas foram Allice Bombom, Andyva Divã, Angelina Bower, Anon Dragótico Anônimo, Ayobambi, Baby Brasil , Bonnie Butch, Bopety, Brenda Max, Cassandra Monster, Dakota Caliandra Corote Overdose, Dália del Mar, Dávila, Dita Maldita, Donna Karão, Fran Ferrari, Hellen Quinn, Invictor, K-halla, Katrina Jones, Licorina, Likidah, Linda Brondi, Lushonda, Mary Gambiarra, Medu Zaa, Melina Imperia, Mozilla Firefox, Pikineia, Raykka Rica, Rojava, Rubi Ocean, Ruth Venceremos, Samiallien, Sereia Punk, Shayennie Aparecida, Simone Demoqueen Lafond, Tiffany — a drag cênica, Verônica Strass e Xantara Thompson.</p>
+
+[Baixe o artigo completo](https://periodicos.unb.br/index.php/CMD/article/view/31149)

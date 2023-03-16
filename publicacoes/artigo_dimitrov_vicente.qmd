@@ -1,0 +1,16 @@
+---
+title: "Vicente do Rego Monteiro: de expoente modernista a integralista esquecido"
+description: Artigo
+author:  Dimitrov, Eduardo
+year: 2015/
+image: /images/vicente-composicao.jpg
+category: artigo
+about:
+  template: trestles
+  image-width: 15em
+  image-shape: rounded
+
+---
+<P align="justify">Vicente do Rego Monteiro é, atualmente, tido como um dos mais mportantes pintores do modernismo brasileiro. Esse reconhecimento, no entanto, só se deu após sua morte, em 1970. Considerando tomadas de posição artísticas e políticas, o artigo reconstrói a trajetória do pintor, explorando alguns dos possíveis motivos que levaram Vicente do Rego Monteiro a falecer em pleno esquecimento.</p>
+
+[Baixe o artigo completo](https://novosestudos.com.br/wp-content/uploads/2017/04/13_vicente_rego_monteiro.pdf.zip)

@@ -1,0 +1,17 @@
+---
+title: "Centro e periferia na produção e avaliação da obra de Gilvan Samico"
+description: Artigo
+author:  Dimitrov, Eduardo
+year: 2019/
+doi: 10.18764/2236-9473.v16n31p107-129
+image: /images/samico-mulher.jpg
+category: artigo
+about:
+  template: trestles
+  image-width: 15em
+  image-shape: rounded
+
+---
+<P align="justify">Este artigo reconstrói a trajetória de Gilvan Samico mobilizando algumas de suas produções artísticas e apreciações de críticos de arte. O intuito é evidenciar a relação assimétrica entre produtor e críticos, o que impacta nas opções estéticas e na forma como elas são interpretadas. A circulação deste artista entre Recife, São Paulo, Rio de Janeiro e Olinda imprime aspectos específicos, formais e temáticos às suas gravuras. A incorporação de uma gramática visual difundida pelos centros, a busca por uma temática vinculada a uma noção de brasilidade e, ao mesmo tempo, a forma como os críticos analisam suas produções vinculando-as ao universo popular evidencia uma relação específica entre centro e periferia na produção artística brasileira.</p>
+
+[Baixe o artigo completo](http://periodicoseletronicos.ufma.br/index.php/rpcsoc/article/view/12855)
