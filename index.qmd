@@ -11,7 +11,7 @@ listing:
     sort: year desc
 
 ---
-![](/images/chapeus_01.jpg)
+![](/images/chapeus_01a.jpg)
 <p align="right" style="font-size: 10px"> foto - Alexandre Dimitrov</p> 
 ---
 
