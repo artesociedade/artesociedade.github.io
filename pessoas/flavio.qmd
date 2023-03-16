@@ -16,3 +16,13 @@ about:
 ---
 
 Tenho experiência na área de Sociologia, com ênfase em teoria sociológica, metodologias científicas, escrita acadêmica e sociologia da literatura, atuando principalmente no seguinte tema: literatura em língua alemão, interpretações do Brasil, teoria, modernidade, Walter Benjamin e Franz Kafka. Possuo também experiência de editoração em periódicos acadêmicos, participei de duas revista discentes do Departamento de Sociologia (SOL-UnB) como membro do corpo editorial, revisor e diagramador.
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GB2MGT95N0"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-GB2MGT95N0');
+</script>

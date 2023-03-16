@@ -14,3 +14,13 @@ about:
   
 ---
 Mestranda em Sociologia no Programa de Pós-graduação em Sociologia - PPGSOL da Universidade de Brasília. Bacharel (2021) em sociologia e licenciada (2020) em Ciências Sociais pela Universidade de Brasília - UnB, com graduação sanduíche na Universidad Nacional da Colombia, sede Bogotá (2019). Estagiária na Secretária de Direitos Humanos da UnB, na Coordenação da Questão Negra, e membra do Grupo de Pesquisa "Arte, Sociedade e Interpretações do Brasil", vinculado ao Instituto de Ciências Sociais - ICS/UnB. Tem interesse nos seguintes temas: relações étnico-raciais, literatura negra, literatura feminina negra. Atualmente desenvolve uma dissertação sobre a presença dos autores negros no mercado editorial brasileiro e os desafios enfrentados por estes. 
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GB2MGT95N0"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-GB2MGT95N0');
+</script>

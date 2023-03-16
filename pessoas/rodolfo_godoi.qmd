@@ -26,3 +26,12 @@ about:
 Doutorando em Sociologia pela UnB. Mestre (2018), Bacharel (2013) e Licenciado (2013) em Sociologia pela mesma universidade. Professor da Secretaria de Educação do DF. Fundador e pesquisador do Instituto Cultura Arte e Memória LGBT+. Integra o Grupo de Pesquisa Arte, Sociedade e Interpretações do Brasil (SOL-UnB). Atuou no Núcleo de Estudos da Diversidade Sexual e de Gênero (UnB), Núcleo de Estudos e Pesquisas da Mulher (UnB) e no Núcleo de Estudos da Violência (UnB). Integrou o PET Sol UnB, foi vice-presidente da Socius, e voluntário no PIBIC. Trabalhou na Cena Promoções Culturais entre outros. Tem experiência na área de Sociologia, atuando principalmente nos seguintes temas: Ensino de Sociologia; Sociologia das Relações de Gênero; Sexualidades; Violência; Estudos da Performance. É autor e diretor do espetáculo teatral Übercapitalismo.
 
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GB2MGT95N0"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-GB2MGT95N0');
+</script>

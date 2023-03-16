@@ -15,3 +15,12 @@ about:
     
 ---
 Possui graduação em Direito pela Universidade de Brasília (1993). Graduada em Ciências Sociais (Sociologia) pela Universidade de Brasília. 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GB2MGT95N0"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-GB2MGT95N0');
+</script>
