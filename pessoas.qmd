@@ -8,6 +8,15 @@ listing:
   filter-ui: false
   image-placeholder: /images/samico.png
   
+
+title: Pessoas
+listing:
+  contents: pessoas
+  type: grid
+  sort: title
+  categories: false
+  filter-ui: false
+  image-placeholder: /images/samico.png
 ---
 
 # Destaques
