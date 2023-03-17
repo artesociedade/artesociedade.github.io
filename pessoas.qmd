@@ -9,6 +9,11 @@ listing:
   image-placeholder: /images/samico.png
   
 ---
+
+# Destaques
+
+::: {#egressos .line-page}
+:::
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-GB2MGT95N0"></script>
 <script>
