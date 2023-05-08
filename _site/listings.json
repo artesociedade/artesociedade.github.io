@@ -3,13 +3,14 @@
     "listing": "/eventos.html",
     "items": [
       "/eventos/Disciplinas.html",
-      "/eventos/seminarios_2022_2023.html"
+      "/eventos/seminarios_2022_2023.html",
+      "/eventos/seminarios_2023_1.html"
     ]
   },
   {
     "listing": "/index.html",
     "items": [
-      "/destaques/seminarios_2022_2023.html",
+      "/destaques/seminarios_2023_1.html",
       "/destaques/entrevista_dimitrov.html",
       "/destaques/livro_regional.html",
       "/destaques/artigo_felix_Pensar_e_fazer_cidades.html",
