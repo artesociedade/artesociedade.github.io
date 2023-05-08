@@ -8,27 +8,4 @@ listing:
   filter-ui: false
   image-placeholder: /images/samico.png
   
-
-title: Pessoas
-listing:
-  contents: pessoas
-  type: grid
-  sort: title
-  categories: false
-  filter-ui: false
-  image-placeholder: /images/samico.png
 ---
-
-# Destaques
-
-::: {#egressos .line-page}
-:::
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-GB2MGT95N0"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-GB2MGT95N0');
-</script>
