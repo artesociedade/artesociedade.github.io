@@ -1,5 +1,22 @@
 [
   {
+    "listing": "/pessoas.html",
+    "items": [
+      "/pessoas/rodolfo_godoi.html",
+      "/pessoas/flavio.html",
+      "/pessoas/daniela.html",
+      "/pessoas/camila.html",
+      "/pessoas/rodolfo_araujo.html",
+      "/pessoas/ana_luiza.html",
+      "/pessoas/gabriela.html",
+      "/pessoas/rodrigo.html",
+      "/pessoas/eduardo.html",
+      "/pessoas/eliel.html",
+      "/pessoas/lui.html",
+      "/pessoas/evellyn.html"
+    ]
+  },
+  {
     "listing": "/index.html",
     "items": [
       "/destaques/seminarios_2023_1.html",
