@@ -3,7 +3,7 @@ title: Pessoas
 listing:
   contents: pessoas/
   type: grid
-  sort: year desc
+  sort: name desc
   categories: false
   filter-ui: false
   image-placeholder: /images/samico.png
