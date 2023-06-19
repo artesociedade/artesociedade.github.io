@@ -31,5 +31,21 @@
       "/publicacoes/artigo_dimitrov_vicente.html",
       "/publicacoes/monografia_godoi.html"
     ]
+  },
+  {
+    "listing": "/pessoas.html",
+    "items": [
+      "/pessoas/ana_luiza.html",
+      "/pessoas/camila.html",
+      "/pessoas/daniela.html",
+      "/pessoas/eliel.html",
+      "/pessoas/evellyn.html",
+      "/pessoas/flavio.html",
+      "/pessoas/gabriela.html",
+      "/pessoas/lui.html",
+      "/pessoas/rodolfo_araujo.html",
+      "/pessoas/rodolfo_godoi.html",
+      "/pessoas/rodrigo.html"
+    ]
   }
 ]
