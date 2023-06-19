@@ -7,8 +7,8 @@ listing:
   categories: false
   filter-ui: false
   image-placeholder: /images/samico.png
-  webkit-filter: grayscale(100%);
+  #colorImage {
   filter: grayscale(100%);
-  filter: gray; /* IE */
+}
 
 ---
