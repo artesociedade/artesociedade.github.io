@@ -15,6 +15,14 @@
     ]
   },
   {
+    "listing": "/eventos.html",
+    "items": [
+      "/eventos/Disciplinas.html",
+      "/eventos/seminarios_2022_2023.html",
+      "/eventos/seminarios_2023_1.html"
+    ]
+  },
+  {
     "listing": "/index.html",
     "items": [
       "/destaques/seminarios_2023_1.html",
@@ -22,14 +30,6 @@
       "/destaques/livro_regional.html",
       "/destaques/artigo_felix_Pensar_e_fazer_cidades.html",
       "/destaques/dissertacao_ney.html"
-    ]
-  },
-  {
-    "listing": "/eventos.html",
-    "items": [
-      "/eventos/Disciplinas.html",
-      "/eventos/seminarios_2022_2023.html",
-      "/eventos/seminarios_2023_1.html"
     ]
   },
   {
@@ -45,8 +45,7 @@
       "/pessoas/gabriela.html",
       "/pessoas/lui.html",
       "/pessoas/rodolfo_araujo.html",
-      "/pessoas/rodolfo_godoi.html",
-      "/pessoas/rodrigo.html"
+      "/pessoas/rodolfo_godoi.html"
     ]
   }
 ]
