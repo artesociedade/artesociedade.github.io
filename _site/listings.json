@@ -1,23 +1,5 @@
 [
   {
-    "listing": "/eventos.html",
-    "items": [
-      "/eventos/Disciplinas.html",
-      "/eventos/seminarios_2022_2023.html",
-      "/eventos/seminarios_2023_1.html"
-    ]
-  },
-  {
-    "listing": "/index.html",
-    "items": [
-      "/destaques/seminarios_2023_1.html",
-      "/destaques/entrevista_dimitrov.html",
-      "/destaques/livro_regional.html",
-      "/destaques/artigo_felix_Pensar_e_fazer_cidades.html",
-      "/destaques/dissertacao_ney.html"
-    ]
-  },
-  {
     "listing": "/publicacoes.html",
     "items": [
       "/publicacoes/artigo_felix_musealizacao.html",
@@ -33,11 +15,30 @@
     ]
   },
   {
+    "listing": "/index.html",
+    "items": [
+      "/destaques/seminarios_2023_1.html",
+      "/destaques/entrevista_dimitrov.html",
+      "/destaques/livro_regional.html",
+      "/destaques/artigo_felix_Pensar_e_fazer_cidades.html",
+      "/destaques/dissertacao_ney.html"
+    ]
+  },
+  {
+    "listing": "/eventos.html",
+    "items": [
+      "/eventos/Disciplinas.html",
+      "/eventos/seminarios_2022_2023.html",
+      "/eventos/seminarios_2023_1.html"
+    ]
+  },
+  {
     "listing": "/pessoas.html",
     "items": [
       "/pessoas/ana_luiza.html",
       "/pessoas/camila.html",
       "/pessoas/daniela.html",
+      "/pessoas/eduardo.html",
       "/pessoas/eliel.html",
       "/pessoas/evellyn.html",
       "/pessoas/flavio.html",

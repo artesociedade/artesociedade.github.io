@@ -10,3 +10,6 @@
     font-family: poppins;
     color: #735E59;
 }
+#colorImage {
+    filter: grayscale(100%);
+  }
