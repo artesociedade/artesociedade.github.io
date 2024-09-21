@@ -14,7 +14,7 @@ about:
    
 ---
 
-Graduado em psicologia pelo Centro Universitário de Brasília (2006), Mestre em Psicologia Clínica e Cultura pela Universidade de Brasília (2009) e Especialista em Saúde Mental pelo centro de atenção à Saúde Mental Anankê (2011). Atualmente atua como Psicólogo Clínico em consultório particular e Psicólogo avaliador na área de segurança do trabalho. Tem experiência nas áreas de Saúde mental e Psicanálise e desenvolve pesquisa e docência nas áreas de Psicopatologia, Psicanálise, Teoria literária, Sociologia da literatura e crítica literária.
+Graduado em sociologia pelo Centro Universitário de Brasília (2006), Mestre em Psicologia Clínica e Cultura pela Universidade de Brasília (2009) e Especialista em Saúde Mental pelo centro de atenção à Saúde Mental Anankê (2011). Atualmente atua como Psicólogo Clínico em consultório particular e Psicólogo avaliador na área de segurança do trabalho. Tem experiência nas áreas de Saúde mental e Psicanálise e desenvolve pesquisa e docência nas áreas de Psicopatologia, Psicanálise, Teoria literária, Sociologia da literatura e crítica literária.
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-GB2MGT95N0"></script>
