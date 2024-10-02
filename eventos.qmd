@@ -3,7 +3,7 @@ title: Eventos
 listing:
   contents: eventos
   type: grid
-  sort: title
+  sort: title desc
   categories: false
   filter-ui: false
   image-placeholder: /images/samico.png

@@ -1,5 +1,5 @@
 ---
-title: Seminários 2022-2023
+title: Seminários 2024
 subtitle: Arte, Sociedade e Interpretações do Brasil
 image: /images/samico.png
 category: seminarios
