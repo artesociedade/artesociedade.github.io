@@ -1,12 +1,11 @@
 [
   {
-    "listing": "/index.html",
+    "listing": "/eventos.html",
     "items": [
-      "/destaques/seminarios_2023_1.html",
-      "/destaques/entrevista_dimitrov.html",
-      "/destaques/livro_regional.html",
-      "/destaques/artigo_felix_Pensar_e_fazer_cidades.html",
-      "/destaques/dissertacao_ney.html"
+      "/eventos/Disciplinas.html",
+      "/eventos/seminarios_2024_2.html",
+      "/eventos/seminarios_2022_2023.html",
+      "/eventos/seminarios_2023_1.html"
     ]
   },
   {
@@ -25,11 +24,13 @@
     ]
   },
   {
-    "listing": "/eventos.html",
+    "listing": "/index.html",
     "items": [
-      "/eventos/Disciplinas.html",
-      "/eventos/seminarios_2022_2023.html",
-      "/eventos/seminarios_2023_1.html"
+      "/destaques/seminarios_2023_1.html",
+      "/destaques/entrevista_dimitrov.html",
+      "/destaques/livro_regional.html",
+      "/destaques/artigo_felix_Pensar_e_fazer_cidades.html",
+      "/destaques/dissertacao_ney.html"
     ]
   },
   {
