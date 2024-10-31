@@ -1,52 +1,65 @@
 [
   {
-    "listing": "/eventos.html",
-    "items": [
-      "/eventos/seminarios_2024_2.html",
-      "/eventos/seminarios_2023_1.html",
-      "/eventos/seminarios_2022_2023.html",
-      "/eventos/Disciplinas.html"
-    ]
-  },
-  {
     "listing": "/publicacoes.html",
     "items": [
-      "/publicacoes/artigo_godoi_ney.html",
       "/publicacoes/artigo_joaocabral.html",
+      "/publicacoes/artigo_godoi_ney.html",
       "/publicacoes/artigo_felix_musealizacao.html",
       "/publicacoes/artigo_dimitrov_samico.html",
       "/publicacoes/artigo_dimitrov_cicero.html",
       "/publicacoes/artigo_felix_traduire.html",
-      "/publicacoes/artigo_felix_novidade.html",
       "/publicacoes/artigo_felix_controversias.html",
+      "/publicacoes/artigo_felix_novidade.html",
       "/publicacoes/artigo_dimitrov_vicente.html",
       "/publicacoes/monografia_godoi.html"
     ]
   },
   {
-    "listing": "/index.html",
+    "listing": "/pessoas.html",
     "items": [
-      "/destaques/seminarios_2023_1.html",
-      "/destaques/entrevista_dimitrov.html",
-      "/destaques/livro_regional.html",
-      "/destaques/artigo_felix_Pensar_e_fazer_cidades.html",
-      "/destaques/dissertacao_ney.html"
+      "/pessoas/eliel.html",
+      "/pessoas/ana_luiza.html",
+      "/pessoas/camila.html",
+      "/pessoas/03_daniela.html",
+      "/pessoas/02_rodolfo_godoi.html",
+      "/pessoas/rodolfo_araujo.html",
+      "/pessoas/01_eduardo.html",
+      "/pessoas/lui.html",
+      "/pessoas/evellyn.html",
+      "/pessoas/gabriela.html",
+      "/pessoas/flavio.html",
+      "/pessoas/rodrigo.html"
     ]
   },
   {
-    "listing": "/pessoas.html",
+    "listing": "/egressos.html",
     "items": [
-      "/pessoas/rodolfo_godoi.html",
-      "/pessoas/camila.html",
-      "/pessoas/lui.html",
-      "/pessoas/daniela.html",
-      "/pessoas/eduardo.html",
-      "/pessoas/gabriela.html",
-      "/pessoas/evellyn.html",
-      "/pessoas/ana_luiza.html",
-      "/pessoas/rodolfo_araujo.html",
-      "/pessoas/flavio.html",
-      "/pessoas/eliel.html"
+      "/Egressos/Z_Aline.html"
+    ]
+  },
+  {
+    "listing": "/projetos.html",
+    "items": [
+      "/Projetos/CapesCofecub.html"
+    ]
+  },
+  {
+    "listing": "/eventos.html",
+    "items": [
+      "/eventos/seminarios_2024_2.html",
+      "/eventos/seminarios_2023_1.html",
+      "/eventos/seminarios_2022_2023.html",
+      "/eventos/Disciplinas.html",
+      "/eventos/Conferencias.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/destaques/livro_regional.html",
+      "/destaques/entrevista_dimitrov.html",
+      "/destaques/artigo_felix_Pensar_e_fazer_cidades.html",
+      "/destaques/dissertacao_ney.html"
     ]
   }
 ]
