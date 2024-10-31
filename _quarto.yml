@@ -9,7 +9,9 @@ website:
   navbar:
     right:
       - href: pessoas.qmd
-        text: Pessoas
+        text: Equipe
+      - href: projetos.qmd
+        text: Projetos
       - href: publicacoes.qmd
         text: Publicações
       - href: eventos.qmd

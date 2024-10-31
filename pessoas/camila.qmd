@@ -2,7 +2,7 @@
 title: Camila Oliveira Silva da Cruz
 image: /images/pessoas_camila.gif
 description: |
-  Pesquisadora/graduanda
+  Pesquisadora/Mestre
 category: aluno_graduacao
 about:
   template: trestles

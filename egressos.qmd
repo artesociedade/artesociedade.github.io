@@ -1,7 +1,7 @@
 ---
-title: Equipe
+title: Egressos
 listing:
-  contents: pessoas/
+  contents: Egressos/
   type: grid
   sort: false
   categories: false
@@ -9,7 +9,3 @@ listing:
   image-placeholder: /images/samico.png
 
 ---
-
-
-
-

@@ -1,0 +1,18 @@
+---
+title: "Globalização das sociologias francesa e brasileira: agentes, instituições, temáticas"
+description: Projeto Internacional
+Coordenador Brasileiro:  Dimitrov, Eduardo
+Coordenador Francês: Lebaron, Fréderic
+Instituições: UnB e ENS Paris-Saclay
+year: 2020-2024
+image: /images/cicero-abacaxi.jpg
+category: Projeto_Internacional
+about:
+  template: trestles
+  image-width: 15em
+  image-shape: rounded
+
+---
+<P align="justify"> O projeto analisa as relações entre processo de globalização e as sociologias brasileira e francesa. Investiga o impacto da globalização nas sociedades francesa e brasileira e a repercussão nas pesquisas realizadas em suas sociologias. Procura também, investigar as estratégias de organismos governamentais e as iniciativas da Associação Francesa de Sociologia e Sociedade Brasileira de Sociologia, visando a inserção de suas respectivas sociologias no campo transnacional desta disciplina.</p>
+
+[Baixe o artigo completo](https://www.scielo.br/j/se/a/S6THMBX9NymwDJxvPXpCTgN/?lang=pt)

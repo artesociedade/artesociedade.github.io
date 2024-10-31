@@ -1,7 +1,7 @@
 ---
 title: Rodolfo Araújo
 description: |
-  description of Rodolfo Araújo
+  Pesquisador/Doutorando
 category: aluno_doutorado
 about:
   template: trestles

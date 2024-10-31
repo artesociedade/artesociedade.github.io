@@ -2,7 +2,7 @@
 title: Daniela Felix Martins Kawabe
 image: /images/pessoas_daniela.gif
 description: |
-  Pesquisadora/Coord.
+  Pesquisadora
 category: professor
 about:
   template: trestles

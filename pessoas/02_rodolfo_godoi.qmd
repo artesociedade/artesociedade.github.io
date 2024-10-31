@@ -2,7 +2,7 @@
 title: Rodolfo Luiz Costa de Godoi
 image: /images/pessoas_rodolfo.jpeg
 description: |
-  Pesquisador/Doutorando
+  Vice-Coordenador
 category: aluno_doutorado
 about:
   template: trestles

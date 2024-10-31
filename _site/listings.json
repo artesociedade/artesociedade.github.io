@@ -15,18 +15,8 @@
     ]
   },
   {
-    "listing": "/eventos.html",
-    "items": [
-      "/eventos/seminarios_2024_2.html",
-      "/eventos/seminarios_2023_1.html",
-      "/eventos/seminarios_2022_2023.html",
-      "/eventos/Disciplinas.html"
-    ]
-  },
-  {
     "listing": "/index.html",
     "items": [
-      "/destaques/seminarios_2023_1.html",
       "/destaques/entrevista_dimitrov.html",
       "/destaques/livro_regional.html",
       "/destaques/artigo_felix_Pensar_e_fazer_cidades.html",
@@ -34,19 +24,42 @@
     ]
   },
   {
+    "listing": "/egressos.html",
+    "items": [
+      "/Egressos/Z_Aline.html"
+    ]
+  },
+  {
+    "listing": "/eventos.html",
+    "items": [
+      "/eventos/seminarios_2024_2.html",
+      "/eventos/seminarios_2023_1.html",
+      "/eventos/seminarios_2022_2023.html",
+      "/eventos/Disciplinas.html",
+      "/eventos/Conferencias.html"
+    ]
+  },
+  {
     "listing": "/pessoas.html",
     "items": [
+      "/pessoas/01_eduardo.html",
+      "/pessoas/02_rodolfo_godoi.html",
+      "/pessoas/03_daniela.html",
       "/pessoas/ana_luiza.html",
       "/pessoas/camila.html",
-      "/pessoas/daniela.html",
-      "/pessoas/eduardo.html",
       "/pessoas/eliel.html",
       "/pessoas/evellyn.html",
       "/pessoas/flavio.html",
       "/pessoas/gabriela.html",
       "/pessoas/lui.html",
       "/pessoas/rodolfo_araujo.html",
-      "/pessoas/rodolfo_godoi.html"
+      "/pessoas/rodrigo.html"
+    ]
+  },
+  {
+    "listing": "/projetos.html",
+    "items": [
+      "/Projetos/CapesCofecub.html"
     ]
   }
 ]
