@@ -151,7 +151,7 @@ Interpretações do Brasil</span>
 <ul>
 <li><p>09/10/2024 – Alexandre Rocha apresentará o projeto de doutorado ““It’s Tight Like That, MINHA NÊGA” ou “Um beijo Puro na Catedral do Amor, BABY”: erotismo e humor no Blues e no Samba sob o ponto de escuta sociológico;</p></li>
 <li><p>06/11/2024 – Jordanna Fonseca Silva apresentará trechos de sua tese de doutorado “Monumentos urbanos a bandeirantes e as disputas de memória no espaço público em Goiânia (GO) e São Paulo (SP)”;</p></li>
-<li><p>11/11/2024 – Evellyn Caroliny de Jesus apresentará a dissertação de mestrado “Estruturas de Sentimento na literatura brasileira: representações sobre o Recife do século XX”;</p></li>
+<li><p>11/11/2024 <strong>Excepcionalmente Às 9h30</strong> – Evellyn Caroliny de Jesus apresentará a dissertação de mestrado “Estruturas de Sentimento na literatura brasileira: representações sobre o Recife do século XX”;</p></li>
 <li><p>18/12/2024 – Alexandre Alves apresentará o projeto de doutorado “O Silêncio de Ouro Preto e as Restaurações Patrimoniais de Gustavo Barroso (1928-1930)”.</p></li>
 </ul>
 
@@ -250,7 +250,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/artesociedade\.github\.io\/");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
