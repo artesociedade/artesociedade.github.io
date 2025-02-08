@@ -1,5 +1,6 @@
 ---
 title: Rodrigo Macedo
+image: /images/samico.png
 description: |
   Pesquisadro/Doutorando
 category: aluno_doutordo

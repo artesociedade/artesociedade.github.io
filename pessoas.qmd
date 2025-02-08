@@ -1,6 +1,8 @@
 ---
 title: Pessoas
 section-divs: false
+toc: false
+editor: source
 listing:
   - id: Efetivos
     type: grid
