@@ -1,5 +1,5 @@
 ---
-title: Seminários e atividades 2024
+title: Seminários e atividades 2025
 subtitle: Arte, Sociedade e Interpretações do Brasil
 image: /images/samico.png
 category: seminarios

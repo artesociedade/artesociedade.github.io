@@ -1,6 +1,11 @@
 ---
 title: Equipe
 listing:
+  - id: egressos
+    type: grid
+    contents: Egressos/
+    sort: year desc
+listing:
   contents: pessoas/
   type: grid
   sort: false
@@ -8,6 +13,13 @@ listing:
   filter-ui: false
   image-placeholder: /images/samico.png
 
+---
+    
+    
+# Egressos
+
+::: {#Egresos .line-page}
+:::
 ---
 
 
