@@ -1,6 +1,6 @@
 ---
 title: "Mundo intelectual e produção cultural no modernismo pernambucano"
-description: Projeto CNPQ
+description: Projeto CNPq
 Coordenador:  Dimitrov, Eduardo
 Instituições: UnB
 year: 2024

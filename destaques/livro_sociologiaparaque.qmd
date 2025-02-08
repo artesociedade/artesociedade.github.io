@@ -1,0 +1,19 @@
+---
+title: Sociologia para que?
+author: Godoi, Rodolfo
+        Nascimento, Carolina Monteiro de Castro
+
+description: Livro
+image: /images/pubicacoes_sociologiaparaque.jpg
+category: livro
+year: 2024/
+about:
+  template: trestles
+  image-width: 10em
+  image-shape: rounded
+
+---
+*Sinopse*
+O livro Sociologia Para Quê? propõe-se a responder à incômoda pergunta sobre a utilidade da sociologia feita pelo senso comum, seja por desconhecimento seja por posicionamentos contrários a uma perspectiva mais progressista. Os(as) autores(as) da presente coletânea respondem à pergunta-título mostrando como a sociologia pode ser essencial para a construção de um ponto de vista mais abrangente da vida social. Dialogando com a teoria sociológica, literatura, relações raciais, movimentos sociais, violência, religiosidade, democracia e outros temas, o(a) leitor(a) tem em suas mãos respostas múltiplas e heterogêneas acerca do para que a sociologia. Essas respostas são úteis não somente ao(à) leitor(a) diletante, mas também aos(às) professores(as) responsáveis por ministrar sociologia seja no ensino médio seja nos cursos de introdução à sociologia. 
+ 
+Com textos de: Alberto Luís Araújo Silva Filho; Artur Guimarães Dias Pimentel; Daniel de Freitas Nunes; Eduardo Rodrigues Santos; Flávia de Sousa Oliveira; Gabriela da Costa Silva; Jacqueline Teixeira; João Pedro Inácio Peleja; João Vitor Rodrigues Loureiro; Laura Gonçalves de Lima; Laura Valle Gontijo; Mateus Lôbo; Paulo César Martins Stumpf; Salles Dimitri Melo Oliveira; Samuel Silva Borges; Tiago Franco de Paula; Yacine Guellati.
