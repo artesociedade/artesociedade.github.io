@@ -1,0 +1,27 @@
+---
+title: Marcela Rossiter Lima Costa
+image: /images/pessoas_MarcelaRossiterLimaCosta.gif
+description: |
+  Pesquisador/Graduado
+category: aluno_graduacao
+about:
+  template: trestles
+  image-width: 10em
+  image-shape: rounded
+  links:
+    - text: Lattes
+      icon: lattes
+      url:  http://lattes.cnpq.br/3109883519927751
+---
+
+Bacharel em Sociologia pela Universidade de Brasília e especialista em Internacionalização, Arte e Cultura pela Belas Artes de São Paulo. 
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GB2MGT95N0"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-GB2MGT95N0');
+</script>
