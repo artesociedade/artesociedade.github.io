@@ -9,7 +9,7 @@ website:
   navbar:
     right:
       - href: pessoas.qmd
-        text: Equipe
+        text: Pessoas
       - href: projetos.qmd
         text: Projetos
       - href: publicacoes.qmd

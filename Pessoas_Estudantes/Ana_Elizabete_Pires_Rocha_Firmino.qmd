@@ -1,0 +1,16 @@
+---
+title: Ana Elizabete Pires Rocha Firmino
+images: /pessoas_elizabete.gif
+description: |
+  Pesquisadora/Graduação
+category: aluno_graduação
+about:
+  template: trestles
+  image-width: 10em
+  image-shape: rounded
+  links:
+    - text: Lattes
+      icon: lattes
+      url: http://lattes.cnpq.br/8688886458232402
+  ---
+  Sou aluna de graduação em Ciências Sociais com habilitação em Antropologia, atualmente no quarto semestre na UnB. Durante minha formação, tenho desenvolvido habilidades teóricas e metodológicas fundamentais para a compreensão das diversas dimensões da experiência humana. Fui monitora voluntária da disciplina de Teoria Antropológica 1 e atualmente tutora voluntária da mesma disciplina, além de membro da gestão do Centro Acadêmico de Sociologia (CASO). Estou continuamente em busca de oportunidades para expandir meus conhecimentos e habilidades, visando contribuir de maneira significativa para o campo das Ciências Sociais.

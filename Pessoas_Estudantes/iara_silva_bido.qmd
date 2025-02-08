@@ -1,0 +1,28 @@
+---
+title: Iara Silva Bidô
+image: /images/pessoas_iara_silva_bido.gif
+description: |
+  Pesquisadora/Graduação
+category: aluno_graduacao
+about:
+  template: trestles
+  image-width: 10em
+  image-shape: rounded
+  links:
+    - text: Lattes
+      icon: lattes
+      url: http://lattes.cnpq.br/0813837481865714
+  
+---
+
+Possui ensino-medio-segundo-graupelo Centro de Ensino Médio 02 de Sobradinho(2020). Atualmente é estagiário da Arte em Curso. 
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GB2MGT95N0"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-GB2MGT95N0');
+</script>

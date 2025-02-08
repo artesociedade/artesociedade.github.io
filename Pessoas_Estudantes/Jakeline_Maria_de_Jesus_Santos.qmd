@@ -1,0 +1,27 @@
+---
+title: Jakeline Maria de Jesus Santos
+image: /images/pessoas_Jakeline_Maria_de_Jesus_Santos.gif
+description: |
+  Pesquisadora/Graduação
+category: aluno_graduacao
+about:
+  template: trestles
+  image-width: 10em
+  image-shape: rounded
+  links:
+    - text: Lattes
+      icon: lattes
+      url: http://lattes.cnpq.br/6752454090801616
+  
+---
+
+Estudante indígena universitaria da Universidade de Brasília (UnB), cursando o curso de Ciências Socias/Licenciatura em sociologia. Participou do projeto de extenção da coordenação indígena da Secretária de direitos Humanos da UnB, e foi monitora do Congresso internacional do Ensino de Ciências Sociais em 2023.2. 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GB2MGT95N0"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-GB2MGT95N0');
+</script>

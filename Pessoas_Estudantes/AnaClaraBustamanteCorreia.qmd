@@ -1,0 +1,19 @@
+---
+title: Ana Clara Bustamante Correia
+image: /images/pessoas_AnaClaraBustamanteCorreia.gif
+description: |
+  Pesquisadora/Graduação
+category: aluno_graduaçõ
+about:
+  template: trestles
+  image-width: 10em
+  image-shape: rounded
+  links:
+    - text: Lattes
+      icon: lattes
+      url: http://lattes.cnpq.br/8605271446458938
+    
+    
+    
+---
+Graduanda em Antropologia pela Universidade de Brasília (DAN/UnB). Bacharel e licenciada em Ciências Sociais pela mesma instituição. Tem interesse pelos temas de religião, arte, memória, tradição, povos e comunidades tradicionais, sustentabilidade e relações raciais no Brasil. É integrante do PET/SOL - Programa de Educação Tutorial em Sociologia da UnB, e editora da revista Textos Graduados, periódico científico da graduação em Ciências Sociais da UnB. Também é integrante da diretoria de pesquisa da Socius, empresa júnior de ciências sociais da Universidade de Brasília.

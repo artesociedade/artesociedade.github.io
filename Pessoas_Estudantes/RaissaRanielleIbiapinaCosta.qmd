@@ -1,0 +1,29 @@
+---
+title: Camila Oliveira Silva da Cruz
+image: /images/pessoas_RaissaRanielleIbiapinaCosta.gif
+description: |
+  Pesquisadora/Graduação
+category: aluno_graduacao
+about:
+  template: trestles
+  image-width: 10em
+  image-shape: rounded
+  links:
+    - text: Lattes
+      icon: lattes
+      url: http://lattes.cnpq.br/426774371200538
+  
+---
+
+Estudante de Ciências sociais em bacharelado e licenciatura na Universidade de Brasília (UnB). Estudante de técnico em Administração no Instituto Federal de Educação, Ciência e Tecnologia de Brasília (IFB).Integra o Grupo de Pesquisa Arte, Sociedade e Interpretações do Brasil (SOL-UnB) como voluntária do PIBIC. Integrante do movimento socioambiental Jovens Pelo Clima. Tem interesse nas áreas de sociologia da arte, e educação em sociologia. É fotógrafa com experiência em teatro.
+
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GB2MGT95N0"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-GB2MGT95N0');
+</script>

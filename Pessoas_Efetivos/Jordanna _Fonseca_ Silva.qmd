@@ -1,0 +1,29 @@
+---
+title: Jordanna Fonseca Silva
+image: /imagespesoas_Jordanna.gif
+description: |
+  Pesquisadora/Doutorando
+category: aluno_doutorado
+about:
+  template: trestles
+  image-width: 10em
+  image-shape: rounded
+  links:
+    - text: Lattes
+      icon: lattes
+      url:  http://lattes.cnpq.br/8440762490131991
+    
+---
+
+Doutoranda em Sociologia pelo PPGSol/UnB, vinculada à linha de pesquisa "Cidade, cultura e sociedade", e professora substituta de Ciências Sociais na Universidade Federal de Catalão - UFCAT. Mestra em Sociologia pelo PPGS/UFMG (2020), vinculada à linha de pesquisa "Sociologia Urbana e das Populações". Bacharela em Ciências Sociais pela UFG (2018). Possui interesse nos temas: memória e patrimônio, monumentos, representações, paisagem urbana, cidades.
+
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GB2MGT95N0"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-GB2MGT95N0');
+</script>

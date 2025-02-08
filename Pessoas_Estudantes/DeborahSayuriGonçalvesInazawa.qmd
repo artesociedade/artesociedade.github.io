@@ -1,0 +1,20 @@
+---
+title: Deborah Sayuri Gonçalves Inazawa
+image: /images/pessoas_DeborahSayuriGonçalvesInazawa.gif
+description: |
+  Pesquisadora/Graduação
+category: aluno_graduaçõ
+about:
+  template: trestles
+  image-width: 10em
+  image-shape: rounded
+  links:
+    - text: Lattes
+      icon: lattes
+      url: http://lattes.cnpq.br/0597854169290410
+    
+    
+    
+---
+
+Possui graduação em serviços jurídicos pela Universidade Católica de Brasília (2021). Atualmente está cursando licenciatura em sociologia pela Universidade de Brasília

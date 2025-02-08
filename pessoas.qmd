@@ -1,27 +1,29 @@
 ---
-title: Equipe
+title: Pessoas
 listing:
-  - id: egressos
+  - id: Efetivos
     type: grid
-    contents: Egressos/
+    contents: Pessoas_Efetivos/
     sort: year desc
-listing:
-  contents: pessoas/
-  type: grid
-  sort: false
-  categories: false
-  filter-ui: false
-  image-placeholder: /images/samico.png
-
+  - id: Estudantes
+    type: grid
+    contents: Pessoa_Estudantes/
+    sort: year desc  
+- id: Egressos
+    type: grid
+    contents: Pessoa_Egressos/
+    sort: year desc  
 ---
     
-    
-# Egressos
+# Pesquisadores Efetivos
 
-::: {#Egresos .line-page}
+::: {#Efetivos .line-page}
 :::
----
-
-
-
-
+# Estudantes
+::: {#Estdantes .line-page}
+:::
+::: {#Efetivos .line-page}
+:::
+# Egressos
+::: {#Egressos .line-page}
+:::

@@ -1,0 +1,20 @@
+---
+title: Ana Beatriz Carasek Cascudo
+image: /images/pessoas_Ana_ Beatriz_Carasek_Cascudo.gif
+description: |
+  Pesquisadora/Graduação
+category: aluno_graduaçõ
+about:
+  template: trestles
+  image-width: 10em
+  image-shape: rounded
+  links:
+    - text: Lattes
+      icon: lattes
+      url: http://lattes.cnpq.br/8605271446458938
+    
+    
+    
+---
+
+Estudante de graduação do nono período do curso de Ciências Sociais na Universidade de Brasília (UnB), com habilitação em licenciatura. 
