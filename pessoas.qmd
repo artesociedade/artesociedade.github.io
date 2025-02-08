@@ -7,11 +7,11 @@ listing:
     sort: year desc
   - id: Estudantes
     type: grid
-    contents: Pessoa_Estudantes/
+    contents: Pessoas_Estudantes/
     sort: year desc  
-- id: Egressos
+  - id: Egressos
     type: grid
-    contents: Pessoa_Egressos/
+    contents: Pessoas_Egressos/
     sort: year desc  
 ---
     

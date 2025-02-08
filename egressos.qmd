@@ -1,7 +1,7 @@
 ---
 title: Egressos
 listing:
-  contents: Egressos/
+  contents: Pessoas_Egressos/
   type: grid
   sort: false
   categories: false
