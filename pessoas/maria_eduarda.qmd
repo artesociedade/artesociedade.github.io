@@ -1,6 +1,6 @@
 ---
 title: Maria Eduarda Almeida Doudemen
-image: images\pessoas_maria_eduarda.gif
+image: images/pessoas_maria_eduarda.gif
 description: |
   Pesquisadora/Graduanda
 category: aluno_graduacao

@@ -9,6 +9,10 @@ listing:
     type: grid
     contents: Projetos/
     sort: year desc
+    - id: Destaques
+    type: grid
+    contents: destaques/
+    sort: year desc  
 
 ---
 ![](/images/chapeus_01a.jpg)
@@ -23,7 +27,9 @@ listing:
 
 ::: {#Projetos .line-page}
 :::
-
+# Destaques
+::: {#Destaques .line-page}
+:::
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-GB2MGT95N0"></script>
 <script>
