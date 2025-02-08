@@ -1,5 +1,6 @@
 ---
 title: Lui Teixeira Oliveira
+image: /image/pessoas_LuiTeixeiraOliveira.gif
 description: |
   Pesquisador/Graduado
 category: aluno_graduacao

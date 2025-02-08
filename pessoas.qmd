@@ -1,5 +1,6 @@
 ---
 title: Pessoas
+section-divs: false
 listing:
   - id: Efetivos
     type: grid
