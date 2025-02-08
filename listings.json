@@ -10,11 +10,11 @@
     ]
   },
   {
-    "listing": "/egressos.html",
+    "listing": "/projetos.html",
     "items": [
-      "/Pessoas_Egressos/lui.html",
-      "/Pessoas_Egressos/Z_Aline.html",
-      "/Pessoas_Egressos/rodrigo.html"
+      "/Projetos/Pernambuco.html",
+      "/Projetos/CapesCofecub.html",
+      "/Projetos/CapesCofecub2025.html"
     ]
   },
   {
@@ -39,16 +39,18 @@
       "/Pessoas_Estudantes/iara_silva_bido.html",
       "/Pessoas_Estudantes/AnaClaraBustamanteCorreia.html",
       "/Pessoas_Egressos/lui.html",
+      "/Pessoas_Egressos/MarcelaRossiterLimaCosta.html",
       "/Pessoas_Egressos/Z_Aline.html",
       "/Pessoas_Egressos/rodrigo.html"
     ]
   },
   {
-    "listing": "/projetos.html",
+    "listing": "/egressos.html",
     "items": [
-      "/Projetos/Pernambuco.html",
-      "/Projetos/CapesCofecub.html",
-      "/Projetos/CapesCofecub2025.html"
+      "/Pessoas_Egressos/lui.html",
+      "/Pessoas_Egressos/MarcelaRossiterLimaCosta.html",
+      "/Pessoas_Egressos/Z_Aline.html",
+      "/Pessoas_Egressos/rodrigo.html"
     ]
   },
   {
