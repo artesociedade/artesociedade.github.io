@@ -5,9 +5,9 @@ toc: false
 editor: source
 image: /images/hero_right.png
 listing:
-  - id: destaques
+  - id: Projetos
     type: grid
-    contents: destaques/
+    contents: Projetos/
     sort: year desc
 
 ---
