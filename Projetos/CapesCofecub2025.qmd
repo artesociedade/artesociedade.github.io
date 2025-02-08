@@ -5,7 +5,7 @@ Coordenador Brasileiro:  Rodrigo da Rosa Bordignon
 Coordenador Francês: Julien Duval
 Instituições: "UFSC, UnB, UFBC, UFC e CESSP/EHESS"
 year: 2025
-image: /images/vicente_paris.jpg
+image: /images/cicero-abstrato.jpeg
 category: Projeto_Internacional
 about:
   template: trestles
