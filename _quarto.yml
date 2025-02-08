@@ -22,7 +22,7 @@ website:
      
 page-footer:
   left: "Copyright 2022"
-  center:  "![](/images/sol.png){width=50px}"
+  center: "![](/images/sol.png){width=50px}"
   right: 
     - text: UnB
       href: https://www.unb.br
