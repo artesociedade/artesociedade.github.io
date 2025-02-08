@@ -21,7 +21,7 @@ website:
     
      
   page-footer:
-    left: "Copyright 2022" "![](/images/SOL.png)""
+    left: "Copyright 2022" "![](/images/SOL.png)"""
 
     right:  
       - text: UnB
