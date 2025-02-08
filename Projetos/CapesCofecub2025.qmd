@@ -1,9 +1,9 @@
 ---
-title: "Globalização das sociologias francesa e brasileira: agentes, instituições, temáticas"
+title: "Sociologia franco-brasileira dos intelectuais e da cultura"
 description: Projeto Internacional (Capes-Cofecub)
 Coordenador Brasileiro:  Rodrigo da Rosa Bordignon
 Coordenador Francês: Julien Duval
-Instituições: UFSC, UnB, UFBC, UFC e CESSP/EHESS
+Instituições: "UFSC, UnB, UFBC, UFC e CESSP/EHESS"
 year: 2025
 image: /images/vicente_paris.jpg
 category: Projeto_Internacional
