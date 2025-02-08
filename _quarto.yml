@@ -25,6 +25,7 @@ website:
       - section: "Agenda"
         contents:        
           - text: "Seminários"
+            image: /images/SOL.png 
             href: eventos/seminarios_2024_2.qmd
           - text: "Disciplinas"
             href: eventos/Disciplinas.qmd
