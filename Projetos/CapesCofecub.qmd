@@ -1,11 +1,11 @@
 ---
 title: "Globalização das sociologias francesa e brasileira: agentes, instituições, temáticas"
-description: Projeto Internacional
+description: Projeto Internacional (Capes-Cofecub)
 Coordenador Brasileiro:  Dimitrov, Eduardo
 Coordenador Francês: Lebaron, Fréderic
 Instituições: UnB e ENS Paris-Saclay
 year: 2020-2024
-image: images/vicente_paris.jpg
+image: /images/vicente_paris.jpg
 category: Projeto_Internacional
 about:
   template: trestles
