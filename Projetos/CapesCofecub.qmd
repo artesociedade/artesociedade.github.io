@@ -5,7 +5,7 @@ Coordenador Brasileiro:  Dimitrov, Eduardo
 Coordenador Francês: Lebaron, Fréderic
 Instituições: UnB e ENS Paris-Saclay
 year: 2020-2024
-image: /images/cicero-abacaxi.jpg
+image: images/vicente_paris.jpg
 category: Projeto_Internacional
 about:
   template: trestles

@@ -15,18 +15,20 @@
     ]
   },
   {
-    "listing": "/index.html",
+    "listing": "/pessoas.html",
     "items": [
-      "/destaques/entrevista_dimitrov.html",
-      "/destaques/livro_regional.html",
-      "/destaques/artigo_felix_Pensar_e_fazer_cidades.html",
-      "/destaques/dissertacao_ney.html"
-    ]
-  },
-  {
-    "listing": "/egressos.html",
-    "items": [
-      "/Egressos/Z_Aline.html"
+      "/pessoas/01_eduardo.html",
+      "/pessoas/02_rodolfo_godoi.html",
+      "/pessoas/03_daniela.html",
+      "/pessoas/ana_luiza.html",
+      "/pessoas/camila.html",
+      "/pessoas/eliel.html",
+      "/pessoas/evellyn.html",
+      "/pessoas/flavio.html",
+      "/pessoas/gabriela.html",
+      "/pessoas/lui.html",
+      "/pessoas/maria_eduarda.html",
+      "/pessoas/rodolfo_araujo.html"
     ]
   },
   {
@@ -40,26 +42,28 @@
     ]
   },
   {
-    "listing": "/pessoas.html",
+    "listing": "/egressos.html",
     "items": [
-      "/pessoas/01_eduardo.html",
-      "/pessoas/02_rodolfo_godoi.html",
-      "/pessoas/03_daniela.html",
-      "/pessoas/ana_luiza.html",
-      "/pessoas/camila.html",
-      "/pessoas/eliel.html",
-      "/pessoas/evellyn.html",
-      "/pessoas/flavio.html",
-      "/pessoas/gabriela.html",
-      "/pessoas/lui.html",
-      "/pessoas/rodolfo_araujo.html",
-      "/pessoas/rodrigo.html"
+      "/Egressos/rodrigo.html",
+      "/Egressos/Z_Aline.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/Projetos/CapesCofecub.html",
+      "/Projetos/Pernambuco.html",
+      "/destaques/entrevista_dimitrov.html",
+      "/destaques/livro_regional.html",
+      "/destaques/artigo_felix_Pensar_e_fazer_cidades.html",
+      "/destaques/dissertacao_ney.html"
     ]
   },
   {
     "listing": "/projetos.html",
     "items": [
-      "/Projetos/CapesCofecub.html"
+      "/Projetos/CapesCofecub.html",
+      "/Projetos/Pernambuco.html"
     ]
   }
 ]
