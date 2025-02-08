@@ -10,3 +10,10 @@
     font-family: poppins;
     color: #735E59;
 }
+
+/* Move a barra lateral para a direita */
+.sidebar {
+    position: fixed;
+    right: 0;
+    left: auto;
+}
