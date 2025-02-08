@@ -1,5 +1,6 @@
 ---
 title: Rodolfo Araújo
+image: /images/pessoas_RodolfoAraujodosSantosJunior.gif
 description: |
   Pesquisador/Doutorando
 category: aluno_doutorado
@@ -10,47 +11,8 @@ about:
   links:
     - text: Lattes
       icon: lattes
-      url: https://
-    - text: Orcid
-      icon: orcid
-      url: https://
-    - text: Google Scholar
-      icon: google-scholar
-      url: https://
-    - text: Email
-      icon: email
-      url: "mailto:"
+      url: http://lattes.cnpq.br/7699107183327447
+
 ---
 
-### This content appears above the formatted about page content.
-
-:::{#hero-heading}
-
-Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending  time unicycling and playing with her pet iguana.
-
-## Education
-
-University of California, San Diego | San Diego, CA
-PhD in Mathematics | Sept 2011 - June 2015
-
-Macalester College | St. Paul MA
-B.A in Economics | Sept 2007 - June 2011
-
-## Experience
-
-Wengo Analytics | Head Data Scientist | April 2018 - present
-
-GeoScynce | Chief Analyst | Sept 2012 - April 2018
-
-:::
-
-### This content appears below the formatted about page content.
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-GB2MGT95N0"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-GB2MGT95N0');
-</script>
+Doutorando do Programa de Pós-Graduação em Sociologia da Universidade de Brasília (PPGSOL/UnB); Mestre em Sociologia também pelo PPGSOL/UnB; Licenciado e Bacharel em Ciências Sociais pela Universidade de Brasília. Atuou como professor de Ensino Médio no Centro Educacional Católica de Brasília. Trabalhou durante 3 anos com pesquisas, na situação de bolsista, juntamente ao Programa de Educação Tutorial ? PET- UnB, onde desenvolveu trabalhos na área de epistemologia das Ciências Sociais, Teoria Sociológica, Sociologia Brasileira e Teoria da História. 

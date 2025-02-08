@@ -9,7 +9,10 @@ listing:
     type: grid
     contents: Pessoas_Estudantes/
     sort: year desc  
-  
+  - id: Egressos
+    type: grid
+    contents: Pessoas_Egressos/
+    sort: year desc  
 
 ---
     
@@ -19,4 +22,6 @@ listing:
 # Estudantes
 ::: {#Estdantes .line-page}
 :::
-
+# Ex-alunos
+::: {#Egressos .line-page}
+:::

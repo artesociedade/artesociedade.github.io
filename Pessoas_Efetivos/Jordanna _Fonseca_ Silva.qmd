@@ -1,6 +1,6 @@
 ---
 title: Jordanna Fonseca Silva
-image: /imagespesoas_Jordanna.gif
+image: /images/pessoas_Jordanna.gif
 description: |
   Pesquisadora/Doutorando
 category: aluno_doutorado

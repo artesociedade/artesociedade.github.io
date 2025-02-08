@@ -1,5 +1,6 @@
 ---
 title: Gabriela da Costa Silva
+image: /images/pessoas_gabriela.gif
 description: |
   Pesquisadora/Doutoranda
 category: aluno_mestrado
