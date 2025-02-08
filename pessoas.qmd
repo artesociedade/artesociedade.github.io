@@ -20,7 +20,7 @@ listing:
 ::: {#Efetivos .line-page}
 :::
 # Estudantes
-::: {#Estdantes .line-page}
+::: {#Estudantes .line-page}
 :::
 # Ex-alunos
 ::: {#Egressos .line-page}
