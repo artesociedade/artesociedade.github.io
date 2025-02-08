@@ -20,15 +20,15 @@ website:
         text: Contato
     
      
-  page-footer:
-    left: "Copyright 2022" "![](/images/SOL.png)"""
-
-    right:  
-      - text: UnB
-        href: https://www.unb.br
-      - text: PPGSOL
-        href: https://www.ppgsol.unb.br
-  
+  page-footer: |
+    <div style="display: flex; justify-content: space-between; align-items: center;">
+      <span>Copyright 2022</span>
+      <img src="images/sol.png" alt="SOL" style="height: 50px;">
+      <span>
+        <a href="https://www.unb.br">UnB</a> | 
+        <a href="https://www.ppgsol.unb.br">PPGSOL</a>
+      </span>
+    </div>
 
 execute:
   freeze: auto  
