@@ -21,4 +21,4 @@ about:
 [DIMITROV, E. Cícero Dias e o regionalismo pernambucano. Sociedade e Estado, v. 33, n. 3, p. 727–754, dez. 2018.](http://www.scielo.br/j/se/a/S6THMBX9NymwDJxvPXpCTgN/?lang=pt) 
 
 [DIMITROV, E. Vicente do Rego Monteiro: de expoente modernista a integralista esquecido. Novos Estudos CEBRAP, v. 34, n. 103, p. 193–208, nov. 2015. 
-](publicacoes/artigo_dimitrov_vicente.qmd)
+](/publicacoes/artigo_dimitrov_vicente.qmd)
