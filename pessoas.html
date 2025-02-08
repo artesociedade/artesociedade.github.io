@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Equipe – Arte, Sociedade e\
+<title>Pessoas – Arte, Sociedade e\
 Interpretações do Brasil</title>
 <style>
 code{white-space: pre-wrap;}
@@ -72,7 +72,7 @@ ul.task-list li input[type="checkbox"] {
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    const listingTargetEl = window.document.querySelector('#listing-Efetivos .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
       return; 
@@ -85,7 +85,63 @@ ul.task-list li input[type="checkbox"] {
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+    window['quarto-listings']['listing-Efetivos'] = new List('listing-Efetivos', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-Estudantes .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-Estudantes'] = new List('listing-Estudantes', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-Egressos .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-Egressos'] = new List('listing-Egressos', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -152,7 +208,7 @@ Interpretações do Brasil</span>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
     <a class="nav-link active" href="./pessoas.html" aria-current="page"> 
-<span class="menu-text">Equipe</span></a>
+<span class="menu-text">Pessoas</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./projetos.html"> 
@@ -181,15 +237,23 @@ Interpretações do Brasil</span>
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Nesta página</h2>
+   
+  <ul>
+  <li><a href="#pesquisadores" id="toc-pesquisadores" class="nav-link active" data-scroll-target="#pesquisadores">Pesquisadores</a></li>
+  <li><a href="#estudantes" id="toc-estudantes" class="nav-link" data-scroll-target="#estudantes">Estudantes</a></li>
+  <li><a href="#egressos" id="toc-egressos" class="nav-link" data-scroll-target="#egressos">Egressos</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Equipe</h1>
+<h1 class="title">Pessoas</h1>
 </div>
 
 
@@ -206,20 +270,18 @@ Interpretações do Brasil</span>
 </header>
 
 
-
-
-
-
-<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<section id="pesquisadores" class="level1">
+<h1>Pesquisadores</h1>
+<div id="listing-Efetivos" class="line-page quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1738984329609" data-listing-reading-time-sort="1" data-listing-word-count-sort="35">
-<a href="./pessoas/evellyn.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1738991765717" data-listing-reading-time-sort="1" data-listing-word-count-sort="35">
+<a href="./Pessoas_Efetivos/evellyn.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img loading="lazy" src="./images/pessoas_evellyn.gif" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
+<h5 class="no-anchor card-title listing-title" data-anchor-id="pesquisadores">
 Evellyn Caroliny de Jesus
 </h5>
 <div class="card-text listing-description">
@@ -234,8 +296,30 @@ Evellyn Caroliny de Jesus
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1738984329609" data-listing-reading-time-sort="1" data-listing-word-count-sort="165">
-<a href="./pessoas/camila.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1738991765717" data-listing-reading-time-sort="1" data-listing-word-count-sort="84">
+<a href="./Pessoas_Efetivos/Jordanna _Fonseca_ Silva.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./imagespesoas_Jordanna.gif" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Jordanna Fonseca Silva
+</h5>
+<div class="card-text listing-description">
+<p>Pesquisadora/Doutorando</p>
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1738991765717" data-listing-reading-time-sort="1" data-listing-word-count-sort="165">
+<a href="./Pessoas_Efetivos/camila.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img loading="lazy" src="./images/pessoas_camila.gif" class="thumbnail-image card-img" style="height: 150px;">
@@ -256,8 +340,8 @@ Camila Oliveira Silva da Cruz
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1738984329609" data-listing-reading-time-sort="1" data-listing-word-count-sort="148">
-<a href="./pessoas/02_rodolfo_godoi.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="3" data-listing-file-modified-sort="1738991765717" data-listing-reading-time-sort="1" data-listing-word-count-sort="148">
+<a href="./Pessoas_Efetivos/02_rodolfo_godoi.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img loading="lazy" src="./images/pessoas_rodolfo.jpeg" class="thumbnail-image card-img" style="height: 150px;">
@@ -278,8 +362,8 @@ Rodolfo Luiz Costa de Godoi
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="3" data-listing-file-modified-sort="1738984329609" data-listing-reading-time-sort="1" data-listing-word-count-sort="41">
-<a href="./pessoas/ana_luiza.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="4" data-listing-file-modified-sort="1738991765717" data-listing-reading-time-sort="1" data-listing-word-count-sort="41">
+<a href="./Pessoas_Efetivos/ana_luiza.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img loading="lazy" src="./images/pessoas_ana.gif" class="thumbnail-image card-img" style="height: 150px;">
@@ -300,28 +384,8 @@ Ana Luiza Avellar Netto
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="4" data-listing-file-modified-sort="1738984329609" data-listing-reading-time-sort="1" data-listing-word-count-sort="35">
-<a href="./pessoas/lui.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top"><img src="/images/samico.png" style="height: 150px;"  class="thumbnail-image card-img"/></p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Lui Teixeira Oliveira
-</h5>
-<div class="card-text listing-description">
-<p>Pesquisador/Graduado</p>
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="5" data-listing-file-modified-sort="1738984329609" data-listing-reading-time-sort="1" data-listing-word-count-sort="86">
-<a href="./pessoas/flavio.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="5" data-listing-file-modified-sort="1738991765717" data-listing-reading-time-sort="1" data-listing-word-count-sort="86">
+<a href="./Pessoas_Efetivos/flavio.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img loading="lazy" src="./images/pessoas_flavio.gif" class="thumbnail-image card-img" style="height: 150px;">
@@ -342,10 +406,10 @@ Flávio Borges Faria
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="6" data-listing-file-modified-sort="1738984329609" data-listing-reading-time-sort="1" data-listing-word-count-sort="130">
-<a href="./pessoas/gabriela.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="6" data-listing-file-modified-sort="1738991765717" data-listing-reading-time-sort="1" data-listing-word-count-sort="130">
+<a href="./Pessoas_Efetivos/gabriela.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top"><img src="/images/samico.png" style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 Gabriela da Costa Silva
@@ -362,8 +426,8 @@ Gabriela da Costa Silva
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="7" data-listing-file-modified-sort="1738984329609" data-listing-reading-time-sort="1" data-listing-word-count-sort="193">
-<a href="./pessoas/03_daniela.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="7" data-listing-file-modified-sort="1738991765717" data-listing-reading-time-sort="1" data-listing-word-count-sort="193">
+<a href="./Pessoas_Efetivos/03_daniela.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img loading="lazy" src="./images/pessoas_daniela.gif" class="thumbnail-image card-img" style="height: 150px;">
@@ -384,30 +448,8 @@ Daniela Felix Martins Kawabe
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="8" data-listing-file-modified-sort="1738984329609" data-listing-reading-time-sort="1" data-listing-word-count-sort="36">
-<a href="./pessoas/maria_eduarda.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./images/pessoas_maria_eduarda.gif" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Maria Eduarda Almeida Doudemen
-</h5>
-<div class="card-text listing-description">
-<p>Pesquisadora/Graduanda</p>
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="9" data-listing-file-modified-sort="1738984329609" data-listing-reading-time-sort="1" data-listing-word-count-sort="151">
-<a href="./pessoas/eliel.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="8" data-listing-file-modified-sort="1738991765717" data-listing-reading-time-sort="1" data-listing-word-count-sort="151">
+<a href="./Pessoas_Efetivos/eliel.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img loading="lazy" src="./images/pessoas_eliel.jpg" class="thumbnail-image card-img" style="height: 150px;">
@@ -428,8 +470,8 @@ Eliel dos Reis Almeida
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="10" data-listing-file-modified-sort="1738984329609" data-listing-reading-time-sort="2" data-listing-word-count-sort="213">
-<a href="./pessoas/01_eduardo.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="9" data-listing-file-modified-sort="1738991765717" data-listing-reading-time-sort="2" data-listing-word-count-sort="213">
+<a href="./Pessoas_Efetivos/01_eduardo.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img loading="lazy" src="./images/eduardo_dimitrov.jpg" class="thumbnail-image card-img" style="height: 150px;">
@@ -450,16 +492,263 @@ Eduardo Dimitrov
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="11" data-listing-file-modified-sort="1738984329609" data-listing-reading-time-sort="1" data-listing-word-count-sort="109">
-<a href="./pessoas/rodolfo_araujo.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="10" data-listing-file-modified-sort="1738991765718" data-listing-reading-time-sort="1" data-listing-word-count-sort="109">
+<a href="./Pessoas_Efetivos/rodolfo_araujo.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top"><img src="/images/samico.png" style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 Rodolfo Araújo
 </h5>
 <div class="card-text listing-description">
 <p>Pesquisador/Doutorando</p>
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+Sem itens correspondentes
+</div>
+</div>
+</section>
+<section id="estudantes" class="level1">
+<h1>Estudantes</h1>
+<div id="Estdantes" class="line-page">
+
+</div>
+<div id="Efetivos" class="line-page">
+
+</div>
+</section>
+<section id="egressos" class="level1">
+<h1>Egressos</h1>
+<div id="listing-Egressos" class="line-page quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1738991765718" data-listing-reading-time-sort="1" data-listing-word-count-sort="35">
+<a href="./Pessoas_Egressos/lui.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title" data-anchor-id="egressos">
+Lui Teixeira Oliveira
+</h5>
+<div class="card-text listing-description">
+<p>Pesquisador/Graduado</p>
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1738991765718" data-listing-reading-time-sort="1" data-listing-word-count-sort="94">
+<a href="./Pessoas_Egressos/Z_Aline.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./images/pessoas_aline.gif" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Aline Stéfany Mendes de Sousa Rezende
+</h5>
+<div class="card-text listing-description">
+<p>Pesquisadora/Mestranda</p>
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1738991765718" data-listing-reading-time-sort="1" data-listing-word-count-sort="97">
+<a href="./Pessoas_Egressos/rodrigo.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Rodrigo Macedo
+</h5>
+<div class="card-text listing-description">
+<p>Pesquisadro/Doutorando</p>
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+Sem itens correspondentes
+</div>
+</div>
+
+
+
+</section>
+
+<div class="quarto-listing quarto-listing-container-grid" id="listing-Estudantes">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1738991765718" data-listing-reading-time-sort="1" data-listing-word-count-sort="67">
+<a href="./Pessoas_Estudantes/Jakeline_Maria_de_Jesus_Santos.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./images/pessoas_Jakeline_Maria_de_Jesus_Santos.gif" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Jakeline Maria de Jesus Santos
+</h5>
+<div class="card-text listing-description">
+<p>Pesquisadora/Graduação</p>
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1738991765718" data-listing-reading-time-sort="1" data-listing-word-count-sort="91">
+<a href="./Pessoas_Estudantes/RaissaRanielleIbiapinaCosta.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./images/pessoas_RaissaRanielleIbiapinaCosta.gif" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Camila Oliveira Silva da Cruz
+</h5>
+<div class="card-text listing-description">
+<p>Pesquisadora/Graduação</p>
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1738991765718" data-listing-reading-time-sort="1" data-listing-word-count-sort="21">
+<a href="./Pessoas_Estudantes/Ana_Beatriz_Carasek_Cascudo.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./images/pessoas_Ana_ Beatriz_Carasek_Cascudo.gif" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Ana Beatriz Carasek Cascudo
+</h5>
+<div class="card-text listing-description">
+<p>Pesquisadora/Graduação</p>
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="3" data-listing-file-modified-sort="1738991765718" data-listing-reading-time-sort="1" data-listing-word-count-sort="21">
+<a href="./Pessoas_Estudantes/DeborahSayuriGonçalvesInazawa.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./images/pessoas_DeborahSayuriGonçalvesInazawa.gif" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Deborah Sayuri Gonçalves Inazawa
+</h5>
+<div class="card-text listing-description">
+<p>Pesquisadora/Graduação</p>
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="4" data-listing-file-modified-sort="1738991765718" data-listing-reading-time-sort="1" data-listing-word-count-sort="36">
+<a href="./Pessoas_Estudantes/maria_eduarda.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./images/pessoas_maria_eduarda.gif" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Maria Eduarda Almeida Doudemen
+</h5>
+<div class="card-text listing-description">
+<p>Pesquisadora/Graduanda</p>
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="5" data-listing-file-modified-sort="1738991765718" data-listing-reading-time-sort="1" data-listing-word-count-sort="39">
+<a href="./Pessoas_Estudantes/iara_silva_bido.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./images/pessoas_iara_silva_bido.gif" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Iara Silva Bidô
+</h5>
+<div class="card-text listing-description">
+<p>Pesquisadora/Graduação</p>
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="6" data-listing-file-modified-sort="1738991765718" data-listing-reading-time-sort="1" data-listing-word-count-sort="82">
+<a href="./Pessoas_Estudantes/AnaClaraBustamanteCorreia.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./images/pessoas_AnaClaraBustamanteCorreia.gif" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Ana Clara Bustamante Correia
+</h5>
+<div class="card-text listing-description">
+<p>Pesquisadora/Graduação</p>
 </div>
 <div class="card-attribution card-text-small start">
 <div class="listing-author">

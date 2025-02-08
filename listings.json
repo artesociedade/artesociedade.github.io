@@ -10,13 +10,44 @@
     ]
   },
   {
-    "listing": "/index.html",
+    "listing": "/projetos.html",
     "items": [
       "/Projetos/Pernambuco.html",
-      "/Projetos/CapesCofecub.html",
-      "/destaques/seminarios_2025.html",
-      "/destaques/livro_sociologiaparaque.html",
-      "/destaques/livro_regional.html"
+      "/Projetos/CapesCofecub.html"
+    ]
+  },
+  {
+    "listing": "/pessoas.html",
+    "items": [
+      "/Pessoas_Efetivos/evellyn.html",
+      "/Pessoas_Efetivos/Jordanna _Fonseca_ Silva.html",
+      "/Pessoas_Efetivos/camila.html",
+      "/Pessoas_Efetivos/02_rodolfo_godoi.html",
+      "/Pessoas_Efetivos/ana_luiza.html",
+      "/Pessoas_Efetivos/flavio.html",
+      "/Pessoas_Efetivos/gabriela.html",
+      "/Pessoas_Efetivos/03_daniela.html",
+      "/Pessoas_Efetivos/eliel.html",
+      "/Pessoas_Efetivos/01_eduardo.html",
+      "/Pessoas_Efetivos/rodolfo_araujo.html",
+      "/Pessoas_Estudantes/Jakeline_Maria_de_Jesus_Santos.html",
+      "/Pessoas_Estudantes/RaissaRanielleIbiapinaCosta.html",
+      "/Pessoas_Estudantes/Ana_Beatriz_Carasek_Cascudo.html",
+      "/Pessoas_Estudantes/DeborahSayuriGonçalvesInazawa.html",
+      "/Pessoas_Estudantes/maria_eduarda.html",
+      "/Pessoas_Estudantes/iara_silva_bido.html",
+      "/Pessoas_Estudantes/AnaClaraBustamanteCorreia.html",
+      "/Pessoas_Egressos/lui.html",
+      "/Pessoas_Egressos/Z_Aline.html",
+      "/Pessoas_Egressos/rodrigo.html"
+    ]
+  },
+  {
+    "listing": "/egressos.html",
+    "items": [
+      "/Pessoas_Egressos/lui.html",
+      "/Pessoas_Egressos/Z_Aline.html",
+      "/Pessoas_Egressos/rodrigo.html"
     ]
   },
   {
@@ -39,34 +70,13 @@
     ]
   },
   {
-    "listing": "/projetos.html",
+    "listing": "/index.html",
     "items": [
       "/Projetos/Pernambuco.html",
-      "/Projetos/CapesCofecub.html"
-    ]
-  },
-  {
-    "listing": "/pessoas.html",
-    "items": [
-      "/pessoas/evellyn.html",
-      "/pessoas/camila.html",
-      "/pessoas/02_rodolfo_godoi.html",
-      "/pessoas/ana_luiza.html",
-      "/pessoas/lui.html",
-      "/pessoas/flavio.html",
-      "/pessoas/gabriela.html",
-      "/pessoas/03_daniela.html",
-      "/pessoas/maria_eduarda.html",
-      "/pessoas/eliel.html",
-      "/pessoas/01_eduardo.html",
-      "/pessoas/rodolfo_araujo.html"
-    ]
-  },
-  {
-    "listing": "/egressos.html",
-    "items": [
-      "/Egressos/Z_Aline.html",
-      "/Egressos/rodrigo.html"
+      "/Projetos/CapesCofecub.html",
+      "/destaques/seminarios_2025.html",
+      "/destaques/livro_sociologiaparaque.html",
+      "/destaques/livro_regional.html"
     ]
   }
 ]
