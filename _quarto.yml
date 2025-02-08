@@ -25,9 +25,9 @@ website:
       - section: "Agenda"
         contents:        
           - text: "Seminários"
-            href: /eventos/seminarios_2024_2.qmd
+            href: eventos/seminarios_2024_2.qmd
           - text: "Disciplinas"
-            href: /eventos/Disciplinas.qmd
+            href: eventos/Disciplinas.qmd
           
 
   page-footer:
