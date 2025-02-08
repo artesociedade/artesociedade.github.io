@@ -19,34 +19,6 @@
     ]
   },
   {
-    "listing": "/index.html",
-    "items": [
-      "/Projetos/CapesCofecub.html",
-      "/Projetos/Pernambuco.html",
-      "/destaques/seminarios_2025.html",
-      "/destaques/livro_sociologiaparaque.html",
-      "/destaques/livro_regional.html"
-    ]
-  },
-  {
-    "listing": "/egressos.html",
-    "items": [
-      "/Pessoas_Egressos/lui.html",
-      "/Pessoas_Egressos/rodrigo.html",
-      "/Pessoas_Egressos/Z_Aline.html"
-    ]
-  },
-  {
-    "listing": "/eventos.html",
-    "items": [
-      "/eventos/seminarios_2024_2.html",
-      "/eventos/seminarios_2023_1.html",
-      "/eventos/seminarios_2022_2023.html",
-      "/eventos/Disciplinas.html",
-      "/eventos/Conferencias.html"
-    ]
-  },
-  {
     "listing": "/pessoas.html",
     "items": [
       "/Pessoas_Efetivos/01_eduardo.html",
@@ -73,9 +45,39 @@
     ]
   },
   {
+    "listing": "/eventos.html",
+    "items": [
+      "/eventos/seminarios_2024_2.html",
+      "/eventos/seminarios_2023_1.html",
+      "/eventos/seminarios_2022_2023.html",
+      "/eventos/Disciplinas.html",
+      "/eventos/Conferencias.html"
+    ]
+  },
+  {
+    "listing": "/egressos.html",
+    "items": [
+      "/Pessoas_Egressos/lui.html",
+      "/Pessoas_Egressos/rodrigo.html",
+      "/Pessoas_Egressos/Z_Aline.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/Projetos/CapesCofecub.html",
+      "/Projetos/CapesCofecub2025.html",
+      "/Projetos/Pernambuco.html",
+      "/destaques/seminarios_2025.html",
+      "/destaques/livro_sociologiaparaque.html",
+      "/destaques/livro_regional.html"
+    ]
+  },
+  {
     "listing": "/projetos.html",
     "items": [
       "/Projetos/CapesCofecub.html",
+      "/Projetos/CapesCofecub2025.html",
       "/Projetos/Pernambuco.html"
     ]
   }

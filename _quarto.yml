@@ -21,12 +21,12 @@ website:
     
      
   page-footer:
-  left: "Copyright 2022"
-  right: 
-    - text: UnB
-      href: https://www.unb.br
-    - text: PPGSOL
-      href: https://www.ppgsol.unb.br
+    left: "Copyright 2022"
+    right: 
+      - text: UnB
+        href: https://www.unb.br
+      - text: PPGSOL
+        href: https://www.ppgsol.unb.br
 
 execute:
   freeze: auto  
