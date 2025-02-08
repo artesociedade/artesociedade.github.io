@@ -24,8 +24,8 @@ page-footer:
   left: "Copyright 2022"
   center: |
     <div style="text-align: center;">
-      <img src="/images/SOL.png" alt="SOL" width="100px" style="margin-right: 10px;">
-      <img src="/images/Logo2.png" alt="Logo 2" width="100px">
+      <img src="/images/SOL.png" alt="SOL" width="5px" style="margin-right: 5px;">
+      
     </div>
   right: 
     - text: UnB
