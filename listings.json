@@ -13,7 +13,8 @@
     "listing": "/projetos.html",
     "items": [
       "/Projetos/Pernambuco.html",
-      "/Projetos/CapesCofecub.html"
+      "/Projetos/CapesCofecub.html",
+      "/Projetos/CapesCofecub2025.html"
     ]
   },
   {
@@ -74,6 +75,7 @@
     "items": [
       "/Projetos/Pernambuco.html",
       "/Projetos/CapesCofecub.html",
+      "/Projetos/CapesCofecub2025.html",
       "/destaques/seminarios_2025.html",
       "/destaques/livro_sociologiaparaque.html",
       "/destaques/livro_regional.html"
