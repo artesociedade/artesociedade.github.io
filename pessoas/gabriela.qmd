@@ -1,7 +1,7 @@
 ---
 title: Gabriela da Costa Silva
 description: |
-  Pesquisadora/Mestre
+  Pesquisadora/Doutoranda
 category: aluno_mestrado
 about:
   template: trestles

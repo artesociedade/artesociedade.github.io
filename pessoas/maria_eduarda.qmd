@@ -1,9 +1,9 @@
 ---
-title: Evellyn Caroliny de Jesus
-image: /images/pessoas_evellyn.gif
+title: Maria Eduarda Almeida Doudemen
+image: images\pessoas_maria_eduarda.gif
 description: |
-  Pesquisadora/Mestra
-category: aluno_mestrado
+  Pesquisadora/Graduanda
+category: aluno_graduacao
 about:
   template: trestles
   image-width: 10em
@@ -11,10 +11,10 @@ about:
   links:
     - text: Lattes
       icon: lattes
-      url: https:///lattes.cnpq.br/5461152099651266
-   
+      url:  http://lattes.cnpq.br/6358141527121604
 ---
-Licenciada em Ciências Sociais e bacharel em Sociologia pela Universidade de Brasília. 
+
+Graduação em andamento no curso de Ciências Sociais, junto à Universidade de Brasília. 
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-GB2MGT95N0"></script>

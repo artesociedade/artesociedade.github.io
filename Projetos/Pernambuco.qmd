@@ -1,0 +1,23 @@
+---
+title: "Mundo intelectual e produção cultural no modernismo pernambucano"
+description: Projeto Internacional
+Coordenador Brasileiro:  Dimitrov, Eduardo
+Coordenador Francês: Lebaron, Fréderic
+Instituições: UnB e ENS Paris-Saclay
+year: 2020-2024
+image: /images/cicero-abacaxi.jpg
+category: Projeto_Internacional
+about:
+  template: trestles
+  image-width: 15em
+  image-shape: rounded
+
+---
+<P align="justify"> Este projeto visa mapear o mundo literário e intelectual pernambucano da primeira metade do século XX a partir da análise de jornais, suplementos literários, publicações, editoras, salões, prêmios e outras instâncias de legitimação que venham a ser identificadas ao longo da pesquisa. Almeja-se reconstruir a morfologia do mundo literário e intelectual recifense e perseguir, em obras literárias, as estruturas de sentimentos que perpassam diferentes produções de diferentes autores atuantes em Recife. Desse modo, o projeto visa ampliar a discussão sobre o modernismo brasileiro para além das capitais mais bem estudadas, como Rio de Janeiro e São Paulo e para além dos escritores que conquistaram maior visibilidade em nossa historiografia e crítica literária.</p>
+
+**Pulicações Relacionadas**
+[DIMITROV, E.; DINIZ, C.; BARBOSA, J. Lula Cardoso Ayres: Arte, Região, Tempo. Recife: Fundação Gilberto Freyre/ Caixa Cultural, 2017.](https://www.academia.edu/39888878/Cat%C3%A1logo_da_Exposi%C3%A7%C3%A3o_Lula_Cardoso_Ayres_Arte_Regi%C3%A3o_e_Tempo)
+
+[DIMITROV, E. Cícero Dias e o regionalismo pernambucano. Sociedade e Estado, v. 33, n. 3, p. 727–754, dez. 2018.](http://www.scielo.br/j/se/a/S6THMBX9NymwDJxvPXpCTgN/?lang=pt) 
+[DIMITROV, E. Vicente do Rego Monteiro: de expoente modernista a integralista esquecido. Novos Estudos CEBRAP, v. 34, n. 103, p. 193–208, nov. 2015. 
+](publicacoes\artigo_dimitrov_vicente.qmd)
