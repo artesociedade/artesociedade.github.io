@@ -21,14 +21,13 @@ website:
     
      
   page-footer: |
-    <div style="display: flex; justify-content: space-between; align-items: center;">
-      
-      <a href="https://www.ppgsol.unb.br"><img src="images/sol.png" alt="SOL" style="height: 50px;"></a>
-      <span>
-        <a href="https://www.unb.br"><img src="images/unb.jpg" alt="SOL" style="height: 50px;"></a> | 
-        
-      </span>
-    </div>
+  left: "Copyright 2022"  
+  
+  right:  
+    - text: UnB
+      href: https://www.unb.br
+    - text: PPGSOL
+      href: https://www.ppgsol.unb.br
 
 execute:
   freeze: auto  
