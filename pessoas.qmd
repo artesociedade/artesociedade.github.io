@@ -21,8 +21,6 @@ listing:
 # Estudantes
 ::: {#Estdantes .line-page}
 :::
-::: {#Efetivos .line-page}
-:::
 # Egressos
 ::: {#Egressos .line-page}
 :::
