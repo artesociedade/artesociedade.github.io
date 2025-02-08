@@ -22,7 +22,7 @@ website:
      
   page-footer:
     left: "Copyright 2022" 
-     center:
+    center:
       - img: /images/SOL.png
         alt: SOL
         width: 100px
