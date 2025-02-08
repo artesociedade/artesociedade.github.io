@@ -20,7 +20,7 @@ website:
         text: Contato
 
   sidebar:
-    style: floating
+    style: docked-right
     contents:
       - section: "Agenda"
         contents:        
