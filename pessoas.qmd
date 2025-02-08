@@ -15,8 +15,7 @@ listing:
     sort: year desc  
 ---
     
-# Pesquisadores Efetivos
-
+# Pesquisadores
 ::: {#Efetivos .line-page}
 :::
 # Estudantes

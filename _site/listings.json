@@ -1,0 +1,82 @@
+[
+  {
+    "listing": "/publicacoes.html",
+    "items": [
+      "/publicacoes/entrevista_dimitrov.html",
+      "/publicacoes/livro_regional.html",
+      "/publicacoes/artigo_felix_musealizacao.html",
+      "/publicacoes/artigo_felix_Pensar_e_fazer_cidades.html",
+      "/publicacoes/artigo_godoi_ney.html",
+      "/publicacoes/artigo_joaocabral.html",
+      "/publicacoes/artigo_dimitrov_samico.html",
+      "/publicacoes/dissertacao_ney.html",
+      "/publicacoes/artigo_dimitrov_cicero.html",
+      "/publicacoes/artigo_felix_traduire.html",
+      "/publicacoes/artigo_felix_controversias.html",
+      "/publicacoes/artigo_felix_novidade.html",
+      "/publicacoes/artigo_dimitrov_vicente.html",
+      "/publicacoes/monografia_godoi.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/Projetos/CapesCofecub.html",
+      "/Projetos/Pernambuco.html",
+      "/destaques/seminarios_2025.html",
+      "/destaques/livro_sociologiaparaque.html",
+      "/destaques/livro_regional.html"
+    ]
+  },
+  {
+    "listing": "/egressos.html",
+    "items": [
+      "/Pessoas_Egressos/lui.html",
+      "/Pessoas_Egressos/rodrigo.html",
+      "/Pessoas_Egressos/Z_Aline.html"
+    ]
+  },
+  {
+    "listing": "/eventos.html",
+    "items": [
+      "/eventos/seminarios_2024_2.html",
+      "/eventos/seminarios_2023_1.html",
+      "/eventos/seminarios_2022_2023.html",
+      "/eventos/Disciplinas.html",
+      "/eventos/Conferencias.html"
+    ]
+  },
+  {
+    "listing": "/pessoas.html",
+    "items": [
+      "/Pessoas_Efetivos/01_eduardo.html",
+      "/Pessoas_Efetivos/02_rodolfo_godoi.html",
+      "/Pessoas_Efetivos/03_daniela.html",
+      "/Pessoas_Efetivos/ana_luiza.html",
+      "/Pessoas_Efetivos/camila.html",
+      "/Pessoas_Efetivos/eliel.html",
+      "/Pessoas_Efetivos/evellyn.html",
+      "/Pessoas_Efetivos/flavio.html",
+      "/Pessoas_Efetivos/gabriela.html",
+      "/Pessoas_Efetivos/Jordanna _Fonseca_ Silva.html",
+      "/Pessoas_Efetivos/rodolfo_araujo.html",
+      "/Pessoas_Estudantes/AnaClaraBustamanteCorreia.html",
+      "/Pessoas_Estudantes/Ana_Beatriz_Carasek_Cascudo.html",
+      "/Pessoas_Estudantes/DeborahSayuriGonçalvesInazawa.html",
+      "/Pessoas_Estudantes/iara_silva_bido.html",
+      "/Pessoas_Estudantes/Jakeline_Maria_de_Jesus_Santos.html",
+      "/Pessoas_Estudantes/maria_eduarda.html",
+      "/Pessoas_Estudantes/RaissaRanielleIbiapinaCosta.html",
+      "/Pessoas_Egressos/lui.html",
+      "/Pessoas_Egressos/rodrigo.html",
+      "/Pessoas_Egressos/Z_Aline.html"
+    ]
+  },
+  {
+    "listing": "/projetos.html",
+    "items": [
+      "/Projetos/CapesCofecub.html",
+      "/Projetos/Pernambuco.html"
+    ]
+  }
+]
