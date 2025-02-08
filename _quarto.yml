@@ -18,7 +18,18 @@ website:
         text: Eventos
       - href: contato.qmd
         text: Contato
-    
+
+  sidebar:
+    style: floating
+    contents:
+      - section: "Agenda"
+        contents:        
+          - text: "Seminários"
+            href: /eventos/seminarios_2024_2.qmd
+          - text: "Disciplinas"
+            href: /eventos/Disciplinas.qmd
+          
+
   page-footer:
     left: "Copyright 2022"
     right: 
