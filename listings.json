@@ -59,7 +59,11 @@
     "listing": "/index.html",
     "items": [
       "/Projetos/Pernambuco.html",
-      "/Projetos/CapesCofecub.html"
+      "/Projetos/CapesCofecub.html",
+      "/destaques/livro_regional.html",
+      "/destaques/entrevista_dimitrov.html",
+      "/destaques/artigo_felix_Pensar_e_fazer_cidades.html",
+      "/destaques/dissertacao_ney.html"
     ]
   }
 ]
