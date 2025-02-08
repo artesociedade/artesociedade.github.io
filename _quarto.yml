@@ -19,7 +19,6 @@ website:
       - href: contato.qmd
         text: Contato
     
-     
   page-footer:
     left: "Copyright 2022"
     right: 
@@ -30,6 +29,7 @@ website:
 
 execute:
   freeze: auto  
+
 format:
   html:
     theme: litera
@@ -38,8 +38,6 @@ format:
     toc: true
     lang: pt-BR
     text-align: justify;
-    
-
         
 
 
