@@ -12,7 +12,3 @@
 }
 
 
-/* Ajusta o conteúdo principal para não ficar escondido atrás da sidebar */
-#quarto-content {
-    margin-right: 300px; /* Ajuste este valor conforme necessário */
-}
