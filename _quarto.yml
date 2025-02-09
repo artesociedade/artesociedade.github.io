@@ -21,7 +21,8 @@ website:
 
   sidebar:
     style: floating
-    contents:
+    contents: 
+      - "Teste"
       - image: /images/samico.png 
            
           

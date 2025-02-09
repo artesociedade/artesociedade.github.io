@@ -2,7 +2,7 @@
 title: Rodrigo Macedo
 image: /images/samico.png
 description: |
-  Pesquisadro/Doutorando
+  Doutorado
 category: aluno_doutordo
 about:
   template: trestles

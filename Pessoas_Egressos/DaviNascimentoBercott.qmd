@@ -2,7 +2,7 @@
 title: Davi Nascimento Berçott
 image: /images/pessoas_DaviNascimentoBercott.gif
 description: |
-  Pesquisador/Graduação
+  Graduação
 category: aluno_graduacao
 about:
   template: trestles

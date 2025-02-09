@@ -2,7 +2,7 @@
 title: Laísa Fernanda Alves da Silva
 image: /images/pessoas_LaisaFernandaAlvesdaSilva.gif
 description: |
-  Pesquisadora/Mestranda
+  Graduação
 category: aluno_graduacao
 about:
   template: trestles

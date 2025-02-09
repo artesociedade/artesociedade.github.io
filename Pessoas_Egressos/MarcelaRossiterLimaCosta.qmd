@@ -2,7 +2,7 @@
 title: Marcela Rossiter Lima Costa
 image: /images/pessoas_MarcelaRossiterLimaCosta.gif
 description: |
-  Pesquisador/Graduado
+  Graduação
 category: aluno_graduacao
 about:
   template: trestles

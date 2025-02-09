@@ -2,7 +2,7 @@
 title: Aline Stéfany Mendes de Sousa Rezende
 image: /images/pessoas_aline.gif
 description: |
-  Pesquisadora/Mestranda
+  Mestrado
 category: aluno_mestrado
 about:
   template: trestles

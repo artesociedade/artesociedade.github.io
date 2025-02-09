@@ -7,7 +7,7 @@ listing:
   - id: Efetivos
     type: grid
     contents: Pessoas_Efetivos/
-    sort: year desc
+    sort: category
   - id: Estudantes
     type: grid
     contents: Pessoas_Estudantes/
