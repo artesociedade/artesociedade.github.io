@@ -22,8 +22,7 @@ website:
   sidebar:
     style: floating
     contents: 
-      - "Teste"
-      - "![](/images/capa_livro_regional_opcao.jpg)"
+      !(/images/capa_livro_regional_opcao.jpg)
            
           
 
