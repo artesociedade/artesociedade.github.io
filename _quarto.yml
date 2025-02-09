@@ -19,12 +19,7 @@ website:
       - href: contato.qmd
         text: Contato
 
-  sidebar:
-    style: floating
-    contents: 
-      (/images/capa_livro_regional_opcao.jpg)
-           
-          
+ 
 
   page-footer:
     left: "Copyright 2022"
