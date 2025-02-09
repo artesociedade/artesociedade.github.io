@@ -22,9 +22,7 @@ website:
   sidebar:
     style: floating
     contents:
-      - section: "Agenda"
-        contents:
-          - image: /images/samico.png 
+      - image: /images/samico.png 
            
           
 
