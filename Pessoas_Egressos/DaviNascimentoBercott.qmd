@@ -1,0 +1,27 @@
+---
+title: Davi Nascimento Berçott
+image: /images/pessoas_DaviNascimentoBercott.gif
+description: |
+  Pesquisador/Graduação
+category: aluno_graduacao
+about:
+  template: trestles
+  image-width: 10em
+  image-shape: rounded
+  links:
+    - text: Lattes
+      icon: lattes
+      url:  http://lattes.cnpq.br/5871749812415040
+---
+
+Possui graduação em Ciências Sociais - Licenciatura (3166) pela Universidade de Brasília (2020). Realizou pesquisa de iniciação científica na área de sociologia urbana e sociologia da educação, sob coordenação da Profª. Drª Christiane Machado Coelho (SOL/UnB). Formado no Bacharel em Sociologia (3123) pela Universidade de Brasília. Possui experiência na área de Sociologia, com ênfase na pesquisa e estudo do Brasil, interessado pelos seguintes temas: sociologia da cultura e da identidade nacional, sociologia brasileira, sociologia da educação e sociologia política.
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GB2MGT95N0"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-GB2MGT95N0');
+</script>

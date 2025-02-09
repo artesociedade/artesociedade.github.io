@@ -11,7 +11,7 @@ about:
   links:
     - text: Lattes
       icon: lattes
-      url:  http://lattes.cnpq.br/3109883519927751
+      url:  http://lattes.cnpq.br/2273550014852747
 ---
 
 Mestranda em Antropologia Social pela Universidade de Brasília (PPGAS/UnB). Licenciada e bacharel (2023) em Ciências Sociais pela Universidade de Brasília (UnB). Estagiária na Assessoria Especial de Assuntos Parlamentares no Ministério da Igualdade Racial. Tem interesse em relações étnico-raciais, direitos sexuais e justiça reprodutiva, políticas públicas, educação e juventude.
