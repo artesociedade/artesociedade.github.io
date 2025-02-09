@@ -23,7 +23,7 @@ website:
     style: floating
     contents: 
       - "Teste"
-      - image: /images/samico.png 
+      - "![](/images/capa_livro_regional_opcao.jpg)"
            
           
 
