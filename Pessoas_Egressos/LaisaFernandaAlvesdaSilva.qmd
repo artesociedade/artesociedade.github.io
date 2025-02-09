@@ -1,0 +1,27 @@
+---
+title: Laísa Fernanda Alves da Silva
+image: /images/pessoas_LaisaFernandaAlvesdaSilva.gif
+description: |
+  Pesquisadora/Mestranda
+category: aluno_graduacao
+about:
+  template: trestles
+  image-width: 10em
+  image-shape: rounded
+  links:
+    - text: Lattes
+      icon: lattes
+      url:  http://lattes.cnpq.br/3109883519927751
+---
+
+Mestranda em Antropologia Social pela Universidade de Brasília (PPGAS/UnB). Licenciada e bacharel (2023) em Ciências Sociais pela Universidade de Brasília (UnB). Estagiária na Assessoria Especial de Assuntos Parlamentares no Ministério da Igualdade Racial. Tem interesse em relações étnico-raciais, direitos sexuais e justiça reprodutiva, políticas públicas, educação e juventude.
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GB2MGT95N0"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-GB2MGT95N0');
+</script>
