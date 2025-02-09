@@ -11,18 +11,6 @@
     color: #735E59;
 }
 
-/* Força a sidebar para a direita */
-#quarto-sidebar {
-    position: fixed !important;
-    right: 0 !important;
-    left: auto !important;
-    top: 0;
-    height: 100vh;
-    z-index: 1000;
-    background: white;
-    box-shadow: -5px 0 10px rgba(0, 0, 0, 0.1);
-    padding: 60px;
-}
 
 /* Ajusta o conteúdo principal para não ficar escondido atrás da sidebar */
 #quarto-content {
