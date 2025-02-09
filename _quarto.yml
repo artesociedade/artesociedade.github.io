@@ -22,7 +22,7 @@ website:
   sidebar:
     style: floating
     contents: 
-      !(/images/capa_livro_regional_opcao.jpg)
+      (/images/capa_livro_regional_opcao.jpg)
            
           
 
