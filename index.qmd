@@ -30,6 +30,11 @@ listing:
 # Destaques
 ::: {#Destaques .line-page}
 :::
+
+## Financiamento e Apoio
+![](/images/cnpq-logo-6.png) ![](/images/capes.png) ![](/images/SOL.png) ![](/images/unb.jpg) 
+
+
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-GB2MGT95N0"></script>
 <script>
