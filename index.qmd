@@ -31,14 +31,13 @@ listing:
 ::: {#Destaques .line-page}
 :::
 
-#### Financiamento e Apoio
-
-
-<img src="/images/cnpq-logo-6.png" alt="CNPq Logo" height="50">
-<img src="/images/capes.png" alt="CAPES Logo" height="50">
-<img src="/images/SOL.png" alt="SOL Logo" height="50">
-<img src="/images/unb.jpg" alt="UnB Logo" height="50">
-<!-- Google tag (gtag.js) -->
+<div style="text-align: center;">
+  <h5>Financiamento e Apoio</h5>
+  <img src="/images/cnpq-logo-6.png" alt="CNPq Logo" height="50">
+  <img src="/images/capes.png" alt="CAPES Logo" height="50">
+  <img src="/images/SOL.png" alt="SOL Logo" height="50">
+  <img src="/images/unb.jpg" alt="UnB Logo" height="50">
+</div>
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-GB2MGT95N0"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
