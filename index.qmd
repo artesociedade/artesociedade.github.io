@@ -32,10 +32,11 @@ listing:
 :::
 
 #### Financiamento e Apoio
-<img src="/images/cnpq-logo-6.png" alt="CNPq Logo" width="100" height="100">
-<img src="/images/capes.png" alt="CAPES Logo" width="100" height="100">
-<img src="/images/SOL.png" alt="SOL Logo" width="100" height="100">
-<img src="/images/unb.jpg" alt="UnB Logo" width="100" height="100">
+![](/images/cnpq-logo-6.png)
+![](/images/capes.png)
+![](/images/SOL.png)
+![](/images/unb.jpg)
+
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-GB2MGT95N0"></script>
