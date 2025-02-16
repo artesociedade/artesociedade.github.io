@@ -5,7 +5,7 @@ author:  Godoi, Rodolfo Luiz Costa de
 year: 2020/
 doi: 10.26512/cmd.v8i2.31149
 image: /images/drag.jpg
-category: livro
+category: artigo
 about:
   template: trestles
   image-width: 15em

@@ -1,0 +1,91 @@
+---
+title: "Análise Quantitativa de Dados Textuais"
+subtitle: "Workshop"
+image: /images/samico.png
+date: 2024
+category: workshop
+#
+
+**28/10 a 01/11 de 2024**  
+**Local: BCE-UnB**  
+
+## Apresentação
+
+Nas últimas décadas, as ciências sociais têm passado por uma transformação impulsionada pela crescente disponibilidade e importância de dados textuais. A multiplicação desses dados e das ferramentas disponíveis para sua análise traz ao primeiro plano das ciências sociais a necessidade de novas abordagens quantitativas.
+
+Este curso visa fornecer bases sólidas aos cientistas sociais interessados em trabalhar com bases de dados textuais. Conjugando conferências e sessões práticas, os participantes serão apresentados aos problemas teóricos e epistemológicos da análise de dados textuais, além de uma gama de métodos e ferramentas essenciais.
+
+## Quem pode participar
+
+O workshop é aberto a pesquisadores. Caso as inscrições excedam o limite de 25 vagas, a prioridade será dada a:
+
+- Doutorandos em ciências sociais e áreas afins;
+- Pós-doutorandos em ciências sociais e áreas afins;
+- Professores doutores em Instituições de ensino superior;
+- Mestrandos do PPGSOL;
+- Outros alunos interessados.
+
+**Período de inscrições:** 16/09/2024 – 26/09/2024  
+**Inscrição pelo link:** [Formulário de Inscrição](https://forms.office.com/r/yxBqP3hqFP)
+
+---
+
+## Programação
+
+| Data | Horário | Tipo de Sessão | Descrição |
+|------|---------|---------------|------------|
+| **Segunda, 28/10** | 08:30-10:00 | Sessão teórica | Introdução à Análise de Dados Textuais |
+|  | 10:15-11:45 | Sessão prática | Introdução ao R, Manipulação e Visualização de dados textuais |
+|  | 13:45-15:15 | Sessão prática | Expressões Regulares |
+|  | 15:30-17:00 | Conferência Sociológica | Frédéric Lebaron: Notas sobre a História do Desenvolvimento da Análise Geométrica (Textual) de Dados |
+| **Terça, 29/10** | 08:30-10:00 | Sessão teórica | Análise de Correspondência de Dados Textuais |
+|  | 10:15-11:45 | Sessão prática | Análise de Correspondência para Dados Textuais I |
+|  | 13:45-15:15 | Sessão prática | Análise de Correspondência para Dados Textuais II |
+|  | 15:30-17:00 | Conferência Sociológica | Frédéric Lebaron: Discursos em Turbulência? Um Estudo Lexicométrico-GDA do Debate Político Francês sobre o Orçamento Europeu |
+| **Quarta, 30/10** | 08:30-10:00 | Sessão teórica | Classificação e Modelagem de Tópicos |
+|  | 10:15-11:45 | Sessão prática | Classificação Ascendente e método Reinert |
+|  | 13:45-15:15 | Sessão prática | Modelos LDA |
+|  | 15:30-17:00 | Conferência Sociológica | Lucas Page Pereira: Cultura e hierarquias simbólicas na França |
+| **Quinta, 31/10** | 08:30-10:00 | Sessão teórica | Métodos Supervisionados: Agrupamento, Enriquecimento de um Corpus |
+|  | 10:15-11:45 | Sessão prática | Métodos Supervisionados I |
+|  | 13:45-15:15 | Sessão prática | Métodos Supervisionados II |
+|  | 15:30-17:00 | Conferência Sociológica | Julien Boelaert: Machine Bias: how do LLMs answer opinion polls? |
+| **Sexta, 01/11** | 08:30-10:00 | Sessão teórica | Além do “Saco de Palavras”: Embedding de Palavras, Transferência de Aprendizado |
+|  | 10:15-13:00 | Sessão prática | Além do “Saco de Palavras” |
+
+---
+
+## Requisitos para participar
+
+- As atividades serão ministradas em português e inglês. É necessário ter nível intermediário de inglês;
+- Não é necessário conhecimento estatístico além do básico;
+- O software **R** será utilizado, mas não é preciso ter experiência prévia;
+- Traga seu computador com **R e RStudio** instalados;
+- Caso não tenha computador, informe a organização;
+- Se possuir um corpus textual de sua pesquisa, traga-o para o curso.
+
+---
+
+## Equipe Pedagógica
+
+- **Frédéric Lebaron** - Professor titular de sociologia na École Normale Supérieure Paris-Saclay.
+- **Lucas Page Pereira** - Pós-doutorando na École Normale Supérieure Paris-Saclay.
+- **Julien Boelaert** - Professor adjunto de ciências políticas na Universidade de Lille.
+
+## Equipe de Organização
+
+- **Eduardo Dimitrov**  
+- **Lucas Page Pereira**  
+
+## Realização e Apoio
+
+**Projeto Capes/Cofecub:** A globalização da sociologia francesa e brasileira  
+**Grupo de Pesquisa Arte, Sociedade e Interpretações do Brasil (CNPq/UnB)**  
+**Apoio:**  
+- Departamento de Sociologia - UnB  
+- Programa de Pós-Graduação em Sociologia  
+- Decanato de Pesquisa e Inovação  
+- Decanato de Pós-Graduação - UnB  
+
+---
+

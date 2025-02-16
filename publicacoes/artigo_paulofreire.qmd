@@ -1,0 +1,18 @@
+---
+title: "A construção de Paulo Freire como inimigo nacional"
+description: Artigo
+author:  Godoi, Rodolfo; Dimitrov, Eduardo
+year: 2022/
+doi: https://doi.org/10.9771/pcr.v15i1.47378
+image: /images/paulo_freire.jpeg
+category: artigo
+about:
+  template: trestles
+  image-width: 15em
+  image-shape: rounded
+
+---
+
+<P align="justify">O artigo percorre os caminhos discursivos que tentaram deslegitimar o educador Paulo Freire no Brasil nos últimos anos. Evidenciam-se como determinados argumentos foram importados e disseminados pelo escritor Olavo de Carvalho, e instrumentalizados na Câmara dos Deputados Federais, especialmente no ano de 2019. Foi realizada análise textual das produções de Olavo de Carvalho e de proposições legislativas vinculadas, pensadas ao lado das perspectivas teóricas de James Hunter para enquadramento do fenômeno nas guerras culturais. Encontra-se distorção e fraude nos caminhos argumentativos, bem como posicionamentos políticos específicos apresentados como posições neutras. Conclui-se que os agentes analisados engajaram-se tanto pela transformação de Paulo Freire como inimigo nacional, como também pelo esvaziamento da política na escola.</p)
+
+[Baixe o artigo completo](https://periodicos.ufba.br/index.php/pculturais/article/view/47378)
