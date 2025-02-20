@@ -40,19 +40,18 @@
     ]
   },
   {
-    "listing": "/eventos.html",
+    "listing": "/projetos.html",
     "items": [
-      "/eventos/seminarios_2024_2.html",
-      "/eventos/seminarios_2023_1.html",
-      "/eventos/seminarios_2022_2023.html",
-      "/eventos/Disciplinas.html",
-      "/eventos/Conferencias.html"
+      "/Projetos/CapesCofecub2025.html",
+      "/Projetos/Pernambuco.html",
+      "/Projetos/CapesCofecub.html"
     ]
   },
   {
     "listing": "/publicacoes.html",
     "items": [
       "/publicacoes/artigo_dimitrov_confluência.html",
+      "/publicacoes/artigo_paulofreire.html",
       "/publicacoes/entrevista_dimitrov.html",
       "/publicacoes/livro_regional.html",
       "/publicacoes/artigo_godoi_ney.html",
@@ -71,11 +70,13 @@
     ]
   },
   {
-    "listing": "/projetos.html",
+    "listing": "/eventos.html",
     "items": [
-      "/Projetos/CapesCofecub2025.html",
-      "/Projetos/Pernambuco.html",
-      "/Projetos/CapesCofecub.html"
+      "/eventos/seminarios_2024_2.html",
+      "/eventos/seminarios_2023_1.html",
+      "/eventos/seminarios_2022_2023.html",
+      "/eventos/Disciplinas.html",
+      "/eventos/workshop.html"
     ]
   },
   {
