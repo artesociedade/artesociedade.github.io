@@ -3,7 +3,7 @@ title: Rodolfo Luiz Costa de Godoi
 image: /images/pessoas_rodolfo.jpeg
 description: |
   Vice-Coordenador
-category: c
+category: cordenadorvice
 about:
   template: trestles
   image-width: 10em

@@ -2,8 +2,8 @@
 title: Evellyn Caroliny de Jesus
 image: /images/pessoas_evellyn.gif
 description: |
-  Pesquisadora/Mestra
-category: aluno_mestrado
+  Pesquisadora
+category: passociado
 about:
   template: trestles
   image-width: 10em

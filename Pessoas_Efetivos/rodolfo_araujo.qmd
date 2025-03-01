@@ -2,8 +2,8 @@
 title: Rodolfo Araújo
 image: /images/pessoas_RodolfoAraujodosSantosJunior.gif
 description: |
-  Pesquisador/Doutorando
-category: aluno_doutorado
+  Doutorando
+category: pd
 about:
   template: trestles
   image-width: 10em

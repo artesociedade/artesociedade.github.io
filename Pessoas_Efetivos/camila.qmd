@@ -2,8 +2,8 @@
 title: Camila Oliveira Silva da Cruz
 image: /images/pessoas_camila.gif
 description: |
-  Pesquisadora/Mestre
-category: pmestrado
+  Pesquisadora
+category: passociado
 about:
   template: trestles
   image-width: 10em

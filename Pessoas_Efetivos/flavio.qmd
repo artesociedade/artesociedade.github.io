@@ -2,8 +2,8 @@
 title: Flávio Borges Faria
 image: /images/pessoas_flavio.gif
 description: |
-  Pesquisador/Doutorando
-category: aluno_doutorado
+  Doutorando
+category: pdoutorado
 about:
   template: trestles
   image-width: 10em

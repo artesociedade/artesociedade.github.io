@@ -3,7 +3,7 @@ title: Daniela Felix Martins
 image: /images/pessoas_daniela.gif
 description: |
   Pesquisadora
-category: pa
+category: passociado
 about:
   template: trestles
   image-width: 10em
