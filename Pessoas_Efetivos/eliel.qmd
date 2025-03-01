@@ -3,7 +3,7 @@ title: Eliel dos Reis Almeida
 image: /images/pessoas_eliel.jpg
 description: |
   Pesquisador/Mestre
-category: aluno_mestrado
+category: pdoutorado
 about:
   template: trestles
   image-width: 10em

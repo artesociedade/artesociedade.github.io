@@ -3,7 +3,7 @@ title: Deborah Sayuri Gonçalves Inazawa
 image: /images/pessoas_DeborahSayuriGonçalvesInazawa.gif
 description: |
   Pesquisadora/Graduação
-category: aluno_graduaçõ
+category: graduação
 about:
   template: trestles
   image-width: 10em

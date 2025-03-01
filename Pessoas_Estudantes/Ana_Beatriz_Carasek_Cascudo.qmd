@@ -3,7 +3,7 @@ title: Ana Beatriz Carasek Cascudo
 image: /images/pessoas_Ana_ Beatriz_Carasek_Cascudo.gif
 description: |
   Pesquisadora/Graduação
-category: aluno_graduaçõ
+category: graduação
 about:
   template: trestles
   image-width: 10em

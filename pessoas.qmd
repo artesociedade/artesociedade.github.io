@@ -7,15 +7,15 @@ listing:
   - id: Efetivos
     type: grid
     contents: Pessoas_Efetivos/
-    sort: title desc
+    sort: category asc
   - id: Estudantes
     type: grid
     contents: Pessoas_Estudantes/
-    sort: tiltle desc  
+    sort: title asc  
   - id: Egressos
     type: grid
     contents: Pessoas_Egressos/
-    sort: tiltle desc  
+    sort: tiltle asc  
 
 ---
     

@@ -3,7 +3,7 @@ title: Iara Silva Bidô
 image: /images/pessoas_iara_silva_bido.gif
 description: |
   Pesquisadora/Graduação
-category: aluno_graduacao
+category: graduação
 about:
   template: trestles
   image-width: 10em

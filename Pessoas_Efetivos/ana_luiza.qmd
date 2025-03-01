@@ -3,7 +3,7 @@ title: Ana Luiza Avellar Netto
 image: /images/pessoas_ana.gif
 description: |
   Pesquisadora/Mestranda
-category: pesquisador
+category: pmestrado
 about:
   template: trestles
   image-width: 10em

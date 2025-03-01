@@ -3,7 +3,7 @@ title: Ana Clara Bustamante Correia
 image: /images/pessoas_AnaClaraBustamanteCorreia.gif
 description: |
   Pesquisadora/Graduação
-category: aluno_graduaçõ
+category: graduação
 about:
   template: trestles
   image-width: 10em
