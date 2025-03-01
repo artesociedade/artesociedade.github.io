@@ -1,6 +1,6 @@
 ---
 title: Alexandre Alves de Sousa Moreira
-image: /images/samico.png
+image: /images/pessoas_alexandre_alves.gif
 description: |
   Doutorando
 category: pd

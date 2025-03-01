@@ -1,6 +1,6 @@
 ---
 title: Alexandre Eleutério Rocha
-image: /images/alexandrerocha.gif
+image: /images/pessoas_alexandrerocha.gif
 description: |
   Doutorando
 category: pd
