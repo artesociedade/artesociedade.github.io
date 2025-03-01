@@ -1,5 +1,4 @@
 ---
-title: Pessoas
 section-divs: false
 toc: false
 editor: source
@@ -15,7 +14,7 @@ listing:
   - id: Egressos
     type: grid
     contents: Pessoas_Egressos/
-    sort: tiltle asc  
+    sort: title asc  
 
 ---
     

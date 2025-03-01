@@ -1,0 +1,18 @@
+---
+title: Alexandre Eleutério Rocha
+image: /images/alexandrerocha.gif
+description: |
+  Doutorando
+category: pd
+about:
+  template: trestles
+  image-width: 10em
+  image-shape: rounded
+  links:
+    - text: Lattes
+      icon: lattes
+      url: http://lattes.cnpq.br/6717831702264842
+
+---
+
+Possui graduação em Comunicação Social pela Universidade Federal do Ceará (1997), em Antropologia pela Universidade de Brasília (2019), mestrado em Musicologia, também pela Universidade de Brasília (2022) e atualmente cursa o doutorado em Sociologia, igualmente pela UnB, além de formação para registro de Radialista pela Televisão Educativa do Estado do Ceará (1984). Tem experiência em pesquisa e produção musical nas áreas de Jornalismo, Radialismo, História, Antropologia e Etnomusicologia, com ênfase em Antropologia e Sociologia da Música, das Emoções, da Dança e da Performance, além de Semiologia da Música. Pesquisa há mais de três décadas o gênero musical afro-americano blues, com enfoque na análise de aspecto de sua estética e linguagem: a agridoce ambiguidade discursiva, emotiva e comportamental, linguagem culturalmente codificada cujo fio condutor é o recorte no caractere erótico. São cinco os eixos, ou categorias, de investigação: história, música, poética, dança e performance, centrados na tétrade reflexiva estrutura, processo, função e significado. Realiza também estudo histórico comparado entre o blues e o samba brasileiro.Ministra cursos sobre a história do blues, sob olhar socioantropológico. Realiza ainda há duas décadas ainda pesquisa, produção e apresentação de programas radiofônicos musicais voltados ao blues e samba e subgêneros afins. 
