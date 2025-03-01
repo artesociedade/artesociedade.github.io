@@ -3,10 +3,11 @@ title: Eventos
 listing:
   contents: eventos
   type: grid
-  sort: title desc
+  sort: year desc
   categories: false
   filter-ui: false
   image-placeholder: /images/samico.png
+  
 ---
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-GB2MGT95N0"></script>
