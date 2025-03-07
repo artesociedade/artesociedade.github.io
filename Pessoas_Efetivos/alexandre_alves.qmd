@@ -3,7 +3,7 @@ title: Alexandre Alves de Sousa Moreira
 image: /images/pessoas_alexandre_alves.gif
 description: |
   Doutorando
-category: pd
+category: pdoutorado
 about:
   template: trestles
   image-width: 10em

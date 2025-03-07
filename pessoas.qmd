@@ -6,7 +6,7 @@ listing:
   - id: Efetivos
     type: grid
     contents: Pessoas_Efetivos/
-    sort: category asc
+    sort: category asc; title asc
   - id: Estudantes
     type: grid
     contents: Pessoas_Estudantes/
