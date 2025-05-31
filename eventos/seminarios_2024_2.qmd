@@ -3,7 +3,7 @@ title: Seminários e atividades 2024
 subtitle: Arte, Sociedade e Interpretações do Brasil
 image: /images/samico.png
 category: seminarios
-
+year: 2024/
 ---
 
 Os seminários acontecem na Sala de Reunião 4 do Instituto de Ciências Sociais da UnB.

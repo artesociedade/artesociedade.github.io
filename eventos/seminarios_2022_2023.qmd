@@ -3,7 +3,7 @@ title: Seminários 2022-2023
 subtitle: Arte, Sociedade e Interpretações do Brasil
 image: /images/samico.png
 category: seminarios
-
+year: 2022/
 ---
 
 Os encontros acontecem quinzenalmente às **terças-feiras às 14hs na Sala de Reunião-1** do Instituto de Ciências Sociais da UnB.
