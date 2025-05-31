@@ -1,0 +1,17 @@
+---
+title: \"Por que eu me monto?": os sentidos da arte transformista no Distrito Federal
+description: Livro
+author:  Godoi, Rodolfo Luiz Costa de
+year: 2020/
+doi: 10.20396/proa.v15i00.19996
+image: /images/pq_me_monto.png
+category: artigo
+about:
+  template: trestles
+  image-width: 15em
+  image-shape: rounded
+
+---
+<P align="justify"> Este artigo analisa os sentidos atribuídos à prática de drag queen a partir dos resultados da pesquisa Mapeamento da Arte Transformista no Distrito Federal e Entorno, realizada entre 2021 e 2022. A partir da prosopografia de quarenta artistas transformistas da área metropolitana do Distrito Federal, analisamos suas motivações e as relações que estabelecem entre suas práticas artísticas e suas identidades sexuais. O estudo revela como expressões corporais, frequentemente ridicularizadas na infância e adolescência, são ressignificadas e transformadas em formas de consagração estética, possível pelo processo de autonomização e artificação do transformismo. Demonstramos como diversos agentes sociais contribuem para a legitimação da arte transformista enquanto linguagem específica de um grupo social.</p>
+
+[Baixe o artigo completo](https://econtents.bc.unicamp.br/inpec/index.php/proa/article/view/19996)
