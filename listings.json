@@ -2,12 +2,12 @@
   {
     "listing": "/eventos.html",
     "items": [
-      "/eventos/seminarios_2023_1.html",
-      "/eventos/seminarios_2022_2023.html",
       "/eventos/Disciplinas.html",
-      "/eventos/seminarios_2025.html",
       "/eventos/workshop.html",
-      "/eventos/seminarios_2024_2.html"
+      "/eventos/seminarios_2025.html",
+      "/eventos/seminarios_2024_2.html",
+      "/eventos/seminarios_2023_1.html",
+      "/eventos/seminarios_2022_2023.html"
     ]
   },
   {
