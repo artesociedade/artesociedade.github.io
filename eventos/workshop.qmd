@@ -3,7 +3,7 @@ title: "Análise Quantitativa de Dados Textuais"
 subtitle: "Workshop"
 image: /images/samico.png
 yaer: 2024/
-category: workshop
+category: seminarios
 #
 ---
 
