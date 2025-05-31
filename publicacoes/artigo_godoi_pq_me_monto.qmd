@@ -2,7 +2,7 @@
 title: "Por que eu me monto?: os sentidos da arte transformista no Distrito Federal"
 description: Artigo
 author:  Godoi, Rodolfo Luiz Costa de
-year: 2020/
+year: 2025/
 doi: 10.20396/proa.v15i00.19996
 image: /images/pq_me_monto.png
 category: artigo
