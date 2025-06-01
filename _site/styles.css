@@ -10,9 +10,19 @@
 }
 
 /* Justificar o texto do conteúdo principal */
+/* Justificar parágrafos do conteúdo principal */
+main p,
 .quarto-article p,
-.quarto-article li {
-    text-align: justify;
-    text-justify: inter-word;
-    hyphens: auto;
+.quarto-about p,
+.about-contents p,
+.about-entity p,
+li {
+  text-align: justify;
+  text-justify: inter-word;
+  hyphens: auto;
+}
+body p, .content p, .main-content p, .quarto-article p, p {
+  text-align: justify !important;
+  text-justify: inter-word;
+  hyphens: auto;
 }
