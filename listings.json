@@ -1,37 +1,37 @@
 [
   {
-    "listing": "/publicacoes.html",
+    "listing": "/eventos.html",
     "items": [
-      "/publicacoes/artigo_godoi_pq_me_monto.html",
-      "/publicacoes/artigo_dimitrov_confluência.html",
-      "/publicacoes/entrevista_dimitrov.html",
-      "/publicacoes/artigo_paulofreire.html",
-      "/publicacoes/livro_regional.html",
-      "/publicacoes/artigo_felix_Pensar_e_fazer_cidades.html",
-      "/publicacoes/artigo_felix_musealizacao.html",
-      "/publicacoes/artigo_joaocabral.html",
-      "/publicacoes/artigo_godoi_ney.html",
-      "/publicacoes/artigo_dimitrov_samico.html",
-      "/publicacoes/dissertacao_ney.html",
-      "/publicacoes/artigo_dimitrov_cicero.html",
-      "/publicacoes/artigo_felix_traduire.html",
-      "/publicacoes/artigo_dimitrov_lula.html",
-      "/publicacoes/artigo_felix_novidade.html",
-      "/publicacoes/artigo_felix_controversias.html",
-      "/publicacoes/artigo_dimitrov_vicente.html",
-      "/publicacoes/monografia_godoi.html",
-      "/publicacoes/livro_ariano.html"
+      "/eventos/Disciplinas.html",
+      "/eventos/workshop.html",
+      "/eventos/seminario_2025_04_16.html",
+      "/eventos/seminarios_2025.html",
+      "/eventos/seminarios_2024_2.html",
+      "/eventos/seminarios_2023_1.html",
+      "/eventos/seminarios_2022_2023.html",
+      "/eventos/seminario_2025_01_15.html"
     ]
   },
   {
-    "listing": "/egressos.html",
+    "listing": "/projetos.html",
     "items": [
-      "/Pessoas_Egressos/lui.html",
-      "/Pessoas_Egressos/DaviNascimentoBercott.html",
-      "/Pessoas_Egressos/Z_Aline.html",
-      "/Pessoas_Egressos/rodrigo.html",
-      "/Pessoas_Egressos/MarcelaRossiterLimaCosta.html",
-      "/Pessoas_Egressos/LaisaFernandaAlvesdaSilva.html"
+      "/Projetos/CapesCofecub2025.html",
+      "/Projetos/CapesCofecub.html",
+      "/Projetos/Pernambuco.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/Projetos/CapesCofecub2025.html",
+      "/Projetos/CapesCofecub.html",
+      "/Projetos/Pernambuco.html",
+      "/destaques/seminarios_2025.html",
+      "/destaques/artigo_godoi_pq_me_monto.html",
+      "/destaques/livro_sociologiaparaque.html",
+      "/destaques/artigo_dimitrov_confluência.html",
+      "/destaques/livro_regional.html",
+      "/destaques/livro_ariano.html"
     ]
   },
   {
@@ -65,37 +65,38 @@
     ]
   },
   {
-    "listing": "/index.html",
+    "listing": "/egressos.html",
     "items": [
-      "/Projetos/CapesCofecub2025.html",
-      "/Projetos/CapesCofecub.html",
-      "/Projetos/Pernambuco.html",
-      "/destaques/seminarios_2025.html",
-      "/destaques/artigo_godoi_pq_me_monto.html",
-      "/destaques/livro_sociologiaparaque.html",
-      "/destaques/artigo_dimitrov_confluência.html",
-      "/destaques/livro_regional.html",
-      "/destaques/livro_ariano.html"
+      "/Pessoas_Egressos/lui.html",
+      "/Pessoas_Egressos/DaviNascimentoBercott.html",
+      "/Pessoas_Egressos/Z_Aline.html",
+      "/Pessoas_Egressos/rodrigo.html",
+      "/Pessoas_Egressos/MarcelaRossiterLimaCosta.html",
+      "/Pessoas_Egressos/LaisaFernandaAlvesdaSilva.html"
     ]
   },
   {
-    "listing": "/projetos.html",
+    "listing": "/publicacoes.html",
     "items": [
-      "/Projetos/CapesCofecub2025.html",
-      "/Projetos/CapesCofecub.html",
-      "/Projetos/Pernambuco.html"
-    ]
-  },
-  {
-    "listing": "/eventos.html",
-    "items": [
-      "/eventos/Disciplinas.html",
-      "/eventos/seminario_2025_15_01.html",
-      "/eventos/workshop.html",
-      "/eventos/seminarios_2025.html",
-      "/eventos/seminarios_2024_2.html",
-      "/eventos/seminarios_2023_1.html",
-      "/eventos/seminarios_2022_2023.html"
+      "/publicacoes/artigo_godoi_pq_me_monto.html",
+      "/publicacoes/artigo_dimitrov_confluência.html",
+      "/publicacoes/entrevista_dimitrov.html",
+      "/publicacoes/artigo_paulofreire.html",
+      "/publicacoes/livro_regional.html",
+      "/publicacoes/artigo_felix_Pensar_e_fazer_cidades.html",
+      "/publicacoes/artigo_felix_musealizacao.html",
+      "/publicacoes/artigo_joaocabral.html",
+      "/publicacoes/artigo_godoi_ney.html",
+      "/publicacoes/artigo_dimitrov_samico.html",
+      "/publicacoes/dissertacao_ney.html",
+      "/publicacoes/artigo_dimitrov_cicero.html",
+      "/publicacoes/artigo_felix_traduire.html",
+      "/publicacoes/artigo_dimitrov_lula.html",
+      "/publicacoes/artigo_felix_novidade.html",
+      "/publicacoes/artigo_felix_controversias.html",
+      "/publicacoes/artigo_dimitrov_vicente.html",
+      "/publicacoes/monografia_godoi.html",
+      "/publicacoes/livro_ariano.html"
     ]
   }
 ]
