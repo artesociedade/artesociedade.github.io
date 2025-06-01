@@ -1,0 +1,16 @@
+---
+title: Opiniões à venda
+subtitle: oposições políticas e divisão do trabalho intelectual na mídia
+author: Allana Meireles (Unesp)
+image: /images/seminario_20255_04_16.jpeg
+category: seminario
+year: 2025
+month: 04
+day: 16
+
+abstract: 
+
+    "O Seminários Arte, Sociedade e Interpretações do Brasil recebe a professora Allana Meirelles (Unesp) para a palestra Opiniões à venda: oposições políticas e divisão do trabalho intelectual na mídia. Com mediação de Eduardo Dimitrov e debate de Rodolfo Godoi." 
+
+---
+

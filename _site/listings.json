@@ -60,12 +60,13 @@
     "listing": "/eventos.html",
     "items": [
       "/eventos/Disciplinas.html",
-      "/eventos/seminario_2025_15_01.html",
       "/eventos/workshop.html",
       "/eventos/seminarios_2025.html",
       "/eventos/seminarios_2024_2.html",
       "/eventos/seminarios_2023_1.html",
-      "/eventos/seminarios_2022_2023.html"
+      "/eventos/seminarios_2022_2023.html",
+      "/eventos/seminario_2025_01_15.html",
+      "/eventos/seminario_2025_04_16.html"
     ]
   },
   {
