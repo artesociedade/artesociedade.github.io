@@ -1,16 +1,5 @@
 [
   {
-    "listing": "/eventos.html",
-    "items": [
-      "/eventos/Disciplinas.html",
-      "/eventos/workshop.html",
-      "/eventos/seminarios_2025.html",
-      "/eventos/seminarios_2024_2.html",
-      "/eventos/seminarios_2023_1.html",
-      "/eventos/seminarios_2022_2023.html"
-    ]
-  },
-  {
     "listing": "/publicacoes.html",
     "items": [
       "/publicacoes/artigo_godoi_pq_me_monto.html",
@@ -30,7 +19,8 @@
       "/publicacoes/artigo_felix_novidade.html",
       "/publicacoes/artigo_felix_controversias.html",
       "/publicacoes/artigo_dimitrov_vicente.html",
-      "/publicacoes/monografia_godoi.html"
+      "/publicacoes/monografia_godoi.html",
+      "/publicacoes/livro_ariano.html"
     ]
   },
   {
@@ -83,7 +73,9 @@
       "/destaques/seminarios_2025.html",
       "/destaques/artigo_godoi_pq_me_monto.html",
       "/destaques/livro_sociologiaparaque.html",
-      "/destaques/livro_regional.html"
+      "/destaques/artigo_dimitrov_confluência.html",
+      "/destaques/livro_regional.html",
+      "/destaques/livro_ariano.html"
     ]
   },
   {
@@ -92,6 +84,18 @@
       "/Projetos/CapesCofecub2025.html",
       "/Projetos/CapesCofecub.html",
       "/Projetos/Pernambuco.html"
+    ]
+  },
+  {
+    "listing": "/eventos.html",
+    "items": [
+      "/eventos/Disciplinas.html",
+      "/eventos/seminario_2025_15_01.html",
+      "/eventos/workshop.html",
+      "/eventos/seminarios_2025.html",
+      "/eventos/seminarios_2024_2.html",
+      "/eventos/seminarios_2023_1.html",
+      "/eventos/seminarios_2022_2023.html"
     ]
   }
 ]
