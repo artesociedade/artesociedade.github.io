@@ -1,0 +1,25 @@
+---
+title: O Brasil dos espertos
+author: Dimitrov, Eduardo
+subtitle: uma análise da construção social de Ariano Suassuna como criador e criatura
+description: Livro
+image: /images/brasil_dos_espertos.jpg
+category: livro
+year: 2011/
+about:
+  template: trestles
+  image-width: 10em
+  image-shape: rounded
+
+---
+
+
+ Escritor e dramaturgo aclamado, Ariano Suassuna é conhecido também pelo bom humor e pelas frases desempenadas que enlaçam ouvintes e leitores no universo mágico, místico e popular de suas peças e livros. Rir e fazer rir. Duas formas de expressão que ele pratica, com gosto e perícia, na literatura e no teatro. Neles dá vazão a uma forma especial de comédia: “aquela que funde o riso mais desatinado à melancolia mais delicada”.
+
+A definição é de Suassuna. Sintética, ela ilumina a obra e, paradoxalmente, a vida do autor. Se a matéria prima da obra se nutre da comédia, a vida se alimenta da tragédia. E é por isso que ele, como escritor, continuou a ser “aquele mesmo menino que, perdendo o pai assassinado no dia 9 de outubro de 1930, passou o resto da vida tentando protestar contra sua morte”. A frase, emitida sessenta anos depois desse acontecimento trágico, foi escrita e lida por ele na cerimônia que o empossou na Academia Brasileira de Letras, em 1990.
+
+O Brasil dos espertos, de Eduardo Dimitrov, desenha o contexto necessário para situar a trajetória de Suassuna, inseri-la na cena teatral amadora do Recife dos anos de 1940 e analisar as oito peças que ele escreveu 1947 e 1960, com especial atenção aos cenários, às personagens e às relações sociais.
+
+Desta forma, o livro é resultado de uma reflexão surpreendente sobre a troca de favor como forma de sociabilidade e arma poderosa nas mãos (melhor dizendo, nas cabeças) dos personagens espertos. Distinta do trambique praticado pelos poderosos, a esperteza dos pobres dá tônus às peripécias, à comicidade que não separa o riso mais desatinado da melancolia mais delicada, tão bem captada neste livro enxuto e inteligente. 
+
+[Veja o site da Editora Alameda](https://www.alamedaeditorial.com.br/o-brasil-dos-espertos-#:~:text=O%20Brasil%20dos%20espertos%2C%20de%20Eduardo%20Dimitrov%2C%20desenha%20o%20contexto,personagens%20e%20%C3%A0s%20rela%C3%A7%C3%B5es%20sociais.)

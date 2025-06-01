@@ -19,7 +19,53 @@
       "/publicacoes/artigo_felix_controversias.html",
       "/publicacoes/artigo_felix_novidade.html",
       "/publicacoes/artigo_dimitrov_vicente.html",
-      "/publicacoes/monografia_godoi.html"
+      "/publicacoes/monografia_godoi.html",
+      "/publicacoes/livro_ariano.html"
+    ]
+  },
+  {
+    "listing": "/projetos.html",
+    "items": [
+      "/Projetos/CapesCofecub.html",
+      "/Projetos/CapesCofecub2025.html",
+      "/Projetos/Pernambuco.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/Projetos/CapesCofecub.html",
+      "/Projetos/CapesCofecub2025.html",
+      "/Projetos/Pernambuco.html",
+      "/destaques/seminarios_2025.html",
+      "/destaques/artigo_godoi_pq_me_monto.html",
+      "/destaques/livro_sociologiaparaque.html",
+      "/destaques/artigo_dimitrov_confluência.html",
+      "/destaques/livro_regional.html",
+      "/destaques/livro_ariano.html"
+    ]
+  },
+  {
+    "listing": "/egressos.html",
+    "items": [
+      "/Pessoas_Egressos/DaviNascimentoBercott.html",
+      "/Pessoas_Egressos/LaisaFernandaAlvesdaSilva.html",
+      "/Pessoas_Egressos/lui.html",
+      "/Pessoas_Egressos/MarcelaRossiterLimaCosta.html",
+      "/Pessoas_Egressos/rodrigo.html",
+      "/Pessoas_Egressos/Z_Aline.html"
+    ]
+  },
+  {
+    "listing": "/eventos.html",
+    "items": [
+      "/eventos/Disciplinas.html",
+      "/eventos/seminario_2025_15_01.html",
+      "/eventos/workshop.html",
+      "/eventos/seminarios_2025.html",
+      "/eventos/seminarios_2024_2.html",
+      "/eventos/seminarios_2023_1.html",
+      "/eventos/seminarios_2022_2023.html"
     ]
   },
   {
@@ -50,48 +96,6 @@
       "/Pessoas_Egressos/lui.html",
       "/Pessoas_Egressos/MarcelaRossiterLimaCosta.html",
       "/Pessoas_Egressos/rodrigo.html"
-    ]
-  },
-  {
-    "listing": "/eventos.html",
-    "items": [
-      "/eventos/Disciplinas.html",
-      "/eventos/workshop.html",
-      "/eventos/seminarios_2025.html",
-      "/eventos/seminarios_2024_2.html",
-      "/eventos/seminarios_2023_1.html",
-      "/eventos/seminarios_2022_2023.html"
-    ]
-  },
-  {
-    "listing": "/egressos.html",
-    "items": [
-      "/Pessoas_Egressos/DaviNascimentoBercott.html",
-      "/Pessoas_Egressos/LaisaFernandaAlvesdaSilva.html",
-      "/Pessoas_Egressos/lui.html",
-      "/Pessoas_Egressos/MarcelaRossiterLimaCosta.html",
-      "/Pessoas_Egressos/rodrigo.html",
-      "/Pessoas_Egressos/Z_Aline.html"
-    ]
-  },
-  {
-    "listing": "/index.html",
-    "items": [
-      "/Projetos/CapesCofecub.html",
-      "/Projetos/CapesCofecub2025.html",
-      "/Projetos/Pernambuco.html",
-      "/destaques/seminarios_2025.html",
-      "/destaques/artigo_godoi_pq_me_monto.html",
-      "/destaques/livro_sociologiaparaque.html",
-      "/destaques/livro_regional.html"
-    ]
-  },
-  {
-    "listing": "/projetos.html",
-    "items": [
-      "/Projetos/CapesCofecub.html",
-      "/Projetos/CapesCofecub2025.html",
-      "/Projetos/Pernambuco.html"
     ]
   }
 ]

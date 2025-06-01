@@ -1,0 +1,9 @@
+---
+title: Análise geométrica de dados em pesquisas no PPGSOL/UnB
+subtitle: Grupo de pesquisa
+image: /images/seminario_20255_01_15.jpg
+category: disciplinas
+abstract: Apresentação das pesquisas de Daniel de Freitas e Hernany Castro e debate animado por Rodolfo Godoi. 
+
+---
+

@@ -1,0 +1,17 @@
+---
+title: "Confluência dos astros: As condicionantes para a fundação da Associação Francesa de Sociologia"
+description: Artigo
+author:  Dimitrov, Eduardo
+year: 2023/
+doi: https://doi.org/10.11606/0103-2070.ts.2023.209826 
+image: /images/Elizabeth_Teissier.jpg
+category: artigo
+about:
+  template: trestles
+  image-width: 15em
+  image-shape: rounded
+
+---
+<P align="justify"> O artigo busca compreender as condicionantes para a criação da Associação Francesa de Sociologia (AFS) em 2002. Em um primeiro momento faz-se uma reconstituição histórica das agremiações sociológicas francesas anteriores à AFS. Em seguida, analisa-se o contexto que antecedeu a criação da AFS, observando o desprestígio da sociologia e sua fragilidade institucional a partir de um caso exemplar: a polêmica causada pela defesa de tese da astróloga Elizabeth Teissier. Por fim, analisam-se as diversas motivações dos envolvidos com a criação da AFS e algumas mudanças ocorridas ao longo dos seus vinte anos até tornar-se uma associação com forte presença de jovens pesquisadores.</p>
+
+[Baixe o artigo completo](https://www.scielo.br/j/ts/a/VHLKskdQFbnMXGCkY9cSfvx/abstract/?lang=pt)
