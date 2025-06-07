@@ -101,7 +101,7 @@ ul.task-list li input[type="checkbox"] {
   
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-Destaques .list');
+    const listingTargetEl = window.document.querySelector('#listing-publicações .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
       return; 
@@ -114,7 +114,35 @@ ul.task-list li input[type="checkbox"] {
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-Destaques'] = new List('listing-Destaques', options);
+    window['quarto-listings']['listing-publicações'] = new List('listing-publicações', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-Eventos .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-Eventos'] = new List('listing-Eventos', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -229,7 +257,7 @@ Sediado no <a href="https://www.ppgsol.unb.br">Departamento de Sociologia</a> da
 <h1 id="projetos">Projetos</h1>
 <div id="listing-Projetos" class="line-page quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1748748315659" data-listing-reading-time-sort="1" data-listing-word-count-sort="91">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1749262783607" data-listing-reading-time-sort="1" data-listing-word-count-sort="91">
 <a href="./Projetos/CapesCofecub2025.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -250,7 +278,7 @@ Sociologia franco-brasileira dos intelectuais e da cultura
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1748748315659" data-listing-reading-time-sort="1" data-listing-word-count-sort="117">
+<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1749262783607" data-listing-reading-time-sort="1" data-listing-word-count-sort="117">
 <a href="./Projetos/CapesCofecub.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -271,7 +299,7 @@ Globalização das sociologias francesa e brasileira: agentes, instituições, t
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1748748315659" data-listing-reading-time-sort="1" data-listing-word-count-sort="175">
+<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1749262783607" data-listing-reading-time-sort="1" data-listing-word-count-sort="175">
 <a href="./Projetos/Pernambuco.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -295,11 +323,79 @@ Mundo intelectual e produção cultural no modernismo pernambucano
 </div>
 <div class="listing-no-matching d-none">Sem itens correspondentes</div>
 </div>
-<h1 id="destaques">Destaques</h1>
-<div id="listing-Destaques" class="line-page quarto-listing quarto-listing-container-grid">
+<h1 id="publicações-recentes">Publicações recentes</h1>
+<div id="Destaques" class="line-page">
+
+</div>
+<h1 id="eventos">Eventos</h1>
+<div id="listing-Eventos" class="line-page quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1748748315715" data-listing-reading-time-sort="2" data-listing-word-count-sort="332">
-<a href="./destaques/seminarios_2025.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1749262783663" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+<a href="./eventos/Disciplinas.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./images/samico.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Disciplinas
+</h5>
+<div class="card-text listing-description delink">
+<p>Disciplinas ministradas na graduaçao e pós-graduação do Departamento de Sociologia da Unb</p>
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1749262783663" data-listing-reading-time-sort="4" data-listing-word-count-sort="612">
+<a href="./eventos/workshop.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./images/samico.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Análise Quantitativa de Dados Textuais
+</h5>
+<div class="card-text listing-description delink">
+<strong>28/10 a 01/11 de 2024</strong><br>
+<strong>Local: BCE-UnB</strong>
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1749262783663" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+<a href="./eventos/seminario_2025_04_16.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./images/seminario_20255_04_16.jpeg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Opiniões à venda
+</h5>
+<div class="card-text listing-description delink">
+<p>O Seminários Arte, Sociedade e Interpretações do Brasil recebe a professora Allana Meirelles (Unesp) para a palestra Opiniões à venda: oposições políticas e divisão do…</p>
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+Allana Meireles (Unesp)
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="3" data-listing-file-modified-sort="1749262783663" data-listing-reading-time-sort="2" data-listing-word-count-sort="332">
+<a href="./eventos/seminarios_2025.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img loading="lazy" src="./images/samico.png" class="thumbnail-image card-img" style="height: 150px;">
@@ -319,106 +415,43 @@ Os seminários acontecem na Sala de Reunião 4 do Instituto de Ciências Sociais
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1748748315715" data-listing-reading-time-sort="1" data-listing-word-count-sort="115">
-<a href="./destaques/artigo_godoi_pq_me_monto.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="4" data-listing-file-modified-sort="1749262783663" data-listing-reading-time-sort="2" data-listing-word-count-sort="234">
+<a href="./eventos/seminarios_2024_2.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="./images/pq_me_monto.png" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="./images/samico.png" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-Por que eu me monto?: os sentidos da arte transformista no Distrito Federal
+Seminários e atividades 2024
 </h5>
 <div class="card-text listing-description delink">
-<p>Artigo</p>
+Os seminários acontecem na Sala de Reunião 4 do Instituto de Ciências Sociais da UnB.
 </div>
 <div class="card-attribution card-text-small start">
 <div class="listing-author">
-Godoi, Rodolfo Luiz Costa de
+
 </div>
 </div>
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1748748315715" data-listing-reading-time-sort="1" data-listing-word-count-sort="184">
-<a href="./destaques/livro_sociologiaparaque.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="5" data-listing-file-modified-sort="1749262783663" data-listing-reading-time-sort="1" data-listing-word-count-sort="184">
+<a href="./eventos/seminarios_2023_1.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="./images/pubicacoes_sociologiaparaque.jpg" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="./images/samico.png" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-Sociologia para que?
+Seminários 2023/1
 </h5>
 <div class="card-text listing-description delink">
-<p>Livro</p>
+Os encontros acontecem quinzenalmente às <strong>segundas-feiras às 10hs na Sala de Reunião-1</strong> do Instituto de Ciências Sociais da UnB.
 </div>
 <div class="card-attribution card-text-small start">
 <div class="listing-author">
-Godoi, Rodolfo Nascimento, Carolina Monteiro de Castro
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="3" data-listing-file-modified-sort="1748748315715" data-listing-reading-time-sort="1" data-listing-word-count-sort="107">
-<a href="./destaques/artigo_dimitrov_confluência.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./images/Elizabeth_Teissier.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Confluência dos astros: As condicionantes para a fundação da Associação Francesa de Sociologia
-</h5>
-<div class="card-text listing-description delink">
-<p>Artigo</p>
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-Dimitrov, Eduardo
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="4" data-listing-file-modified-sort="1748748315715" data-listing-reading-time-sort="3" data-listing-word-count-sort="585">
-<a href="./destaques/livro_regional.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./images/capa_livro_regional_opcao.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Regional por opção, Regional como prisão
-</h5>
-<div class="card-text listing-description delink">
-<p>Livro</p>
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-Dimitrov, Eduardo
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="5" data-listing-file-modified-sort="1748748315715" data-listing-reading-time-sort="2" data-listing-word-count-sort="287">
-<a href="./destaques/livro_ariano.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./images/brasil_dos_espertos.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-O Brasil dos espertos
-</h5>
-<div class="card-text listing-description delink">
-<p>Livro</p>
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-Dimitrov, Eduardo
+
 </div>
 </div>
 </div>
@@ -445,7 +478,137 @@ Financiamento e Apoio
 
 
 
-</main> <!-- /main -->
+<div class="quarto-listing quarto-listing-container-grid" id="listing-publicações">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1749262783663" data-listing-reading-time-sort="2" data-listing-word-count-sort="332">
+<a href="./destaques/seminarios_2025.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./images/samico.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Seminários e atividades 2025
+</h5>
+<div class="card-text listing-description delink">
+Os seminários acontecem na Sala de Reunião 4 do Instituto de Ciências Sociais da UnB.
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1749262783663" data-listing-reading-time-sort="1" data-listing-word-count-sort="115">
+<a href="./destaques/artigo_godoi_pq_me_monto.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./images/pq_me_monto.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Por que eu me monto?: os sentidos da arte transformista no Distrito Federal
+</h5>
+<div class="card-text listing-description delink">
+<p>Artigo</p>
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+Godoi, Rodolfo Luiz Costa de
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1749262783663" data-listing-reading-time-sort="1" data-listing-word-count-sort="184">
+<a href="./destaques/livro_sociologiaparaque.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./images/pubicacoes_sociologiaparaque.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Sociologia para que?
+</h5>
+<div class="card-text listing-description delink">
+<p>Livro</p>
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+Godoi, Rodolfo Nascimento, Carolina Monteiro de Castro
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="3" data-listing-file-modified-sort="1749262783663" data-listing-reading-time-sort="1" data-listing-word-count-sort="107">
+<a href="./destaques/artigo_dimitrov_confluência.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./images/Elizabeth_Teissier.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Confluência dos astros: As condicionantes para a fundação da Associação Francesa de Sociologia
+</h5>
+<div class="card-text listing-description delink">
+<p>Artigo</p>
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+Dimitrov, Eduardo
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="4" data-listing-file-modified-sort="1749262783663" data-listing-reading-time-sort="3" data-listing-word-count-sort="585">
+<a href="./destaques/livro_regional.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./images/capa_livro_regional_opcao.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Regional por opção, Regional como prisão
+</h5>
+<div class="card-text listing-description delink">
+<p>Livro</p>
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+Dimitrov, Eduardo
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="5" data-listing-file-modified-sort="1749262783663" data-listing-reading-time-sort="2" data-listing-word-count-sort="287">
+<a href="./destaques/livro_ariano.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./images/brasil_dos_espertos.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+O Brasil dos espertos
+</h5>
+<div class="card-text listing-description delink">
+<p>Livro</p>
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+Dimitrov, Eduardo
+</div>
+</div>
+</div>
+</div></a>
+</div>
+</div>
+<div class="listing-no-matching d-none">Sem itens correspondentes</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
