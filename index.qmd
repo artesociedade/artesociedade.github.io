@@ -9,11 +9,15 @@ listing:
     type: grid
     contents: Projetos/
     sort: year desc
-  - id: Destaques
+  - id: publicações
     type: grid
     contents: destaques/
     sort: year desc  
-
+  - id: Eventos
+    type: grid
+    contents: eventos/
+    sort: year desc  
+    max-items: 6
 ---
 ![](/images/chapeus_01a.jpg)
 <p align="right" style="font-size: 10px"> foto - Alexandre Dimitrovv</p> 
@@ -27,10 +31,12 @@ listing:
 
 ::: {#Projetos .line-page}
 :::
-# Destaques
+# Publicações recentes
 ::: {#Destaques .line-page}
 :::
-
+# Eventos
+::: {#Eventos .line-page}
+:::
 <div style="text-align: center;">
   <h5>Financiamento e Apoio</h5>
   <img src="/images/cnpq-logo-6.png" alt="CNPq Logo" height="50">
