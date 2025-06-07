@@ -4,7 +4,7 @@ description: Entrevista
 author:  Ayer, Mauricio; Dimitrov, Eduardo
 year: 2022/
 image: /images/outraspalavras.jpeg
-category: artigo
+category: entrevista
 about:
   template: trestles
   image-width: 15em

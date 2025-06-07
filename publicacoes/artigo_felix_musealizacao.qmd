@@ -2,7 +2,7 @@
 title: "A musealização da performance: materialidades de uma arte efêmera"
 description: Artigo
 author:  Félix Martins, Daniela 
-year: 2020/
+year: 2019/
 doi: 10.26512/museologia.v9i18.34543
 image: /images/cover_issue_2036_pt_BR.jpg
 category: artigo

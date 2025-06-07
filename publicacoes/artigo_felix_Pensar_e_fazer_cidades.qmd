@@ -2,7 +2,7 @@
 title: "Pensar e fazer cidades: composições performáticas e a emergência do espaço público"
 description: Artigo
 author:  Félix Martins, Daniela 
-year: 2020/
+year: 2019/
 doi: 10.17851/2358-9787.29.2.94-115
 image: /images/cover_issue_250_pt_BR.jpg
 category: artigo

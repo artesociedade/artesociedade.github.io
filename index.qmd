@@ -9,10 +9,11 @@ listing:
     type: grid
     contents: Projetos/
     sort: year desc
-  - id: publicações
+  - id: Publicações
     type: grid
-    contents: destaques/
-    sort: year desc  
+    contents: publicacoes/
+    sort: year desc
+    max-items: 6
   - id: Eventos
     type: grid
     contents: eventos/
@@ -32,11 +33,13 @@ listing:
 ::: {#Projetos .line-page}
 :::
 # Publicações recentes
-::: {#Destaques .line-page}
+::: {#Publicações .line-page}
 :::
 # Eventos
 ::: {#Eventos .line-page}
 :::
+
+
 <div style="text-align: center;">
   <h5>Financiamento e Apoio</h5>
   <img src="/images/cnpq-logo-6.png" alt="CNPq Logo" height="50">
@@ -44,16 +47,3 @@ listing:
   <img src="/images/SOL.png" alt="SOL Logo" height="50">
   <img src="/images/unb.jpg" alt="UnB Logo" height="50">
 </div>
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-GB2MGT95N0"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-GB2MGT95N0');
-</script>
-
-
-  
-
-
